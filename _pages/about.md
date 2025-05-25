@@ -24,7 +24,9 @@ Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen Un
 - <span style="color: #87CEEB">**AI Agents**</span>: Planning and Decision-Making, Reinforcement learning
 - <span style="color:rgb(226, 96, 10)">**Spatial Intelligence**</span>: 3D Environment Perception, LLM-based Spatial Reasoning, Agent-driven Decision-making and Action
 
-I am actively seeking collaborations and currently looking for <span style="color: red">**26 fall PhD positions**</span>! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems. 
+<!-- - <span style="color:rgb(232, 96, 96)">**AI Agents**</span>: Planning and Decision-Making, Reinforcement learning -->
+
+I am actively seeking collaborations and currently looking for <span style="color:rgb(232, 96, 96)">**26 fall PhD positions**</span>! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems. 
 
 # 📱 Contact
 - **WeChat**: lyl20136148

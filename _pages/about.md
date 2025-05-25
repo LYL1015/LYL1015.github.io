@@ -20,11 +20,11 @@ redirect_from:
 <div id="particles-js"></div>
 
 <div class="wrapper">
-Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen University (XMU) @[SmartDSP](https://xmu-smartdsp.github.io/) advised by [Prof. Xinghao Ding](https://scholar.google.com.hk/citations?user=k5hVBfMAAAAJ&hl=zh-CN). My research focuses on advancing computational photography for visual enhancement and scene reconstruction, developing multimodal learning frameworks for cross-modal understanding, contextual reasoning, and adaptive skill acquisition, and building intelligent agents capable of perception, decision-making, and autonomous action. Key research areas and methodologies include:
+Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen University (XMU) @<a href="https://xmu-smartdsp.github.io/">SmartDSP</a> advised by <a href="https://scholar.google.com.hk/citations?user=k5hVBfMAAAAJ&hl=zh-CN">Prof. Xinghao Ding</a>. My research focuses on advancing computational photography for visual enhancement and scene reconstruction, developing multimodal learning frameworks for cross-modal understanding, contextual reasoning, and adaptive skill acquisition, and building intelligent agents capable of perception, decision-making, and autonomous action. Key research areas and methodologies include:
 
 <div id="motto" class="typed-motto"></div>
 
-<script>
+<!-- <script>
 document.addEventListener('DOMContentLoaded', function() {
   if (typeof Typed !== 'undefined') {
     new Typed('#motto', {
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
     document.head.appendChild(script);
   }
 });
-</script>
+</script> -->
 
 <div class="research-areas">
     <div class="research-item">
@@ -93,8 +93,8 @@ I am actively seeking collaborations and currently looking for <span style="colo
 
 <div class="section-heading"><span class="section-icon">📱</span> Contact</div>
 <ul>
-  <li>**WeChat**: lyl20136148</li>
-  <li>**Email**: linyl@stu.xmu.edu.cn</li>
+  <li><strong>WeChat</strong>: lyl20136148</li>
+  <li><strong>Email</strong>: linyl@stu.xmu.edu.cn</li>
 </ul>
 
 <div class="section-heading"><span class="section-icon">🔥</span> News</div>

@@ -1,12 +1,8 @@
 <script>
     $(document).ready(function () {
-        var gsDataBaseUrl = '';
-        {% if site.google_scholar_stats_use_cdn %}
-            gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@';
-        {% else %}
-            gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/';
-        {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
+        var gsDataBaseUrl = '/google-scholar-stats/';
+        
+        $.getJSON(gsDataBaseUrl + "gs_data.json", function (data) {
             var totalCitation = data['citedby'];
             document.getElementById('total_cit').innerHTML = totalCitation;
             var citationEles = document.getElementsByClassName('show_paper_citations');
@@ -15,6 +11,8 @@
                 var numCitations = data['publications'][paperId]['num_citations'];
                 element.innerHTML = '| Citations: ' + numCitations;
             });
+        }).fail(function(jqXHR, textStatus, errorThrown) {
+            console.error("获取Google Scholar数据失败:", textStatus, errorThrown);
         });
     });
 </script>

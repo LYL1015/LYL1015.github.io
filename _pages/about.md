@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </div>
 </div>
 
-I am actively seeking collaborations and currently looking for <span style="color:rgb(232, 96, 96)">**26 fall PhD positions**</span>! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems. 
+I am actively seeking collaborations and currently looking for <span style="color:rgb(232, 96, 96)"><strong>26 fall PhD positions</strong></span>! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems. 
 
 <div class="section-heading"><span class="section-icon">📱</span> Contact</div>
 <ul>

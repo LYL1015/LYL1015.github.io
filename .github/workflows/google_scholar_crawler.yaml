@@ -18,12 +18,14 @@ jobs:
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
         python3 main.py
-        cd ./results
-        git init
+        mkdir -p ../google-scholar-stats
+        cp ./results/gs_data.json ../google-scholar-stats/
+        cp ./results/gs_data_shieldsio.json ../google-scholar-stats/
+        cd ..
         git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
+        git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        git add google-scholar-stats/gs_data.json google-scholar-stats/gs_data_shieldsio.json
+        git commit -m "更新Google Scholar引用统计数据" || echo "No changes to commit"
+        git push https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git HEAD:master
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}

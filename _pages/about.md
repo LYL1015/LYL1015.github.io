@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <div class="research-areas">
-    <div class="research-item" data-tooltip="Vision and language, Visual reasoning, Generalist models">
+    <div class="research-item">
         <div class="research-icon">🧠</div>
         <div class="research-content">
             <h3>Multimodal learning</h3>
@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
     </div>
 
-    <div class="research-item" data-tooltip="Real-world degradation restoration, Generative priors">
+    <div class="research-item">
         <div class="research-icon">🔍</div>
         <div class="research-content">
             <h3>Inverse Problems</h3>
@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
     </div>
 
-    <div class="research-item" data-tooltip="Planning and Decision-Making, Reinforcement learning">
+    <div class="research-item">
         <div class="research-icon">🤖</div>
         <div class="research-content">
             <h3>AI Agents</h3>
@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
     </div>
 
-    <div class="research-item" data-tooltip="3D Environment Perception, LLM-based Spatial Reasoning, Agent-driven Decision-making and Action">
+    <div class="research-item">
         <div class="research-icon">🌐</div>
         <div class="research-content">
             <h3>Spatial Intelligence</h3>
@@ -91,30 +91,36 @@ document.addEventListener('DOMContentLoaded', function() {
 
 I am actively seeking collaborations and currently looking for <span style="color:rgb(232, 96, 96)">**26 fall PhD positions**</span>! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems. 
 
-# 📱 Contact
-- **WeChat**: lyl20136148
-- **Email**: linyl@stu.xmu.edu.cn
+<div class="section-heading"><span class="section-icon">📱</span> Contact</div>
+<ul>
+  <li>**WeChat**: lyl20136148</li>
+  <li>**Email**: linyl@stu.xmu.edu.cn</li>
+</ul>
 
-# 🔥 News
-- Three papers accepted by CVPR'25!
-- Four papers accepted by AAAI'25 (2 oral)!
-- One paper accepted by ECCV'24!
-- Two paper accepted by TGRS'25!
-- Two paper accepted by TCSVT'24!
-- Two paper accepted by TGRS'24!
-- Three papers accepted by ACMMM'23 (1 oral)!
+<div class="section-heading"><span class="section-icon">🔥</span> News</div>
+<ul>
+  <li>Three papers accepted by CVPR'25!</li>
+  <li>Four papers accepted by AAAI'25 (2 oral)!</li>
+  <li>One paper accepted by ECCV'24!</li>
+  <li>Two paper accepted by TGRS'25!</li>
+  <li>Two paper accepted by TCSVT'24!</li>
+  <li>Two paper accepted by TGRS'24!</li>
+  <li>Three papers accepted by ACMMM'23 (1 oral)!</li>
+</ul>
 
-# 📝 Publications
+<div class="section-heading"><span class="section-icon">📝</span> Publications</div>
 
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><video src='images/papers/jarvisir.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration**]()
+<a href="" class="paper-title">JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration</a>
 
 **Yunlong Lin\***, Zixu Lin\*, Haoyu Chen\*, Panwang Pan\*, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding
 
-[<a href="./papers/CVPR2025_JarvisIR.pdf">PDF</a>] | [Project](https://cvpr2025-jarvisir.github.io/) | [Code](https://github.com/LYL1015/JarvisIR)
+<a href="./papers/CVPR2025_JarvisIR.pdf" class="paper-link">PDF</a> | 
+<a href="https://cvpr2025-jarvisir.github.io/" class="paper-link">Project</a> | 
+<a href="https://github.com/LYL1015/JarvisIR" class="paper-link">Code</a>
 </div>
 </div>
 
@@ -122,11 +128,13 @@ I am actively seeking collaborations and currently looking for <span style="colo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><video src='images/papers/LIE.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**AGLLDiff: Guiding Diffusion Models Towards Unsupervised Training-free Real-world Low-light Image Enhancement**](https://arxiv.org/pdf/2407.14900)
+<a href="https://arxiv.org/pdf/2407.14900" class="paper-title">AGLLDiff: Guiding Diffusion Models Towards Unsupervised Training-free Real-world Low-light Image Enhancement</a>
 
 **Yunlong Lin\***, Tian Ye\*, Sixiang Chen\*, Zhenqi Fu, Yingying Wang, Wenhao Chai, Zhaohu Xing, Lei Zhu, Xinghao Ding.
 
-[PDF](https://arxiv.org/pdf/2407.14900) | [Project](https://aglldiff.github.io) | [Code](https://github.com/LYL1015/AGLLDiff)
+<a href="https://arxiv.org/pdf/2407.14900" class="paper-link">PDF</a> | 
+<a href="https://aglldiff.github.io" class="paper-link">Project</a> | 
+<a href="https://github.com/LYL1015/AGLLDiff" class="paper-link">Code</a>
 </div>
 </div>
 
@@ -134,11 +142,12 @@ I am actively seeking collaborations and currently looking for <span style="colo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/papers/dplut.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**](https://arxiv.org/pdf/2409.18899)
+<a href="https://arxiv.org/pdf/2409.18899" class="paper-title">Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors</a>
 
 **Yunlong Lin\***, Zhenqi Fu\*, Kairun Wen, Tian Ye, Sixiang Chen, Ge Meng, Yingying Wang, Yue Huang, Xiaotong Tu, Xinghao Ding.
 
-[PDF](https://arxiv.org/pdf/2409.18899) | [Project](https://dplut.github.io/)
+<a href="https://arxiv.org/pdf/2409.18899" class="paper-link">PDF</a> | 
+<a href="https://dplut.github.io/" class="paper-link">Project</a>
 </div>
 </div>
 
@@ -146,21 +155,22 @@ I am actively seeking collaborations and currently looking for <span style="colo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/snowmaster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization**]()
+<a href="" class="paper-title">SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization</a>
 
 Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaohu Xing, Hongtao Wu, Weiming Wang, Lei Zhu.
 
-[PDF]() | [Project]()
+<a href="" class="paper-link">PDF</a> | 
+<a href="" class="paper-link">Project</a>
 </div>
 </div>
 
-<ul>
+<ul class="paper-list">
   <!-- Paper 5 -->
   <li>
-    <strong>Track Any Anomalous Object:A Granular Video Anomaly Detection Pipeline. CVPR 2025.</strong>
-    <div style="display: inline">
-        <a href=""> [paper]</a>
-        <a href=""> [code]</a>
+    <strong>Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline. CVPR 2025.</strong>
+    <div class="paper-links">
+        <a href="" class="paper-link">Paper</a> | 
+        <a href="" class="paper-link">Code</a>
     </div>
     <div><i>Yuzhi Huang, Chenxin Li, Haitao Zhang, Zixu Lin, <strong>Yunlong Lin</strong>, Hengyu Liu, Wuyang Li, Xinyu Liu, Jiechao Gao, Yue Huang, Xinghao Ding, Yixuan Yuan.</i></div>
   </li>
@@ -168,9 +178,9 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
   <!-- Paper 6 -->
   <li>
     <strong>Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint. ECCV 2024.</strong>
-    <div style="display: inline">
-        <a href=""> [paper]</a>
-        <a href=""> [code]</a>
+    <div class="paper-links">
+        <a href="" class="paper-link">Paper</a> | 
+        <a href="" class="paper-link">Code</a>
     </div>
     <div><i>Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, <strong>Yunlong Lin</strong>, Lei Zhu</i></div>
   </li>
@@ -178,9 +188,9 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
   <!-- Paper 7 -->
   <li>
     <strong>Fusion2Void: Unsupervised Multi-focus Image Fusion Based on Image Inpainting. TCSVT 2024.</strong>
-    <div style="display: inline">
-        <a href=""> [paper]</a>
-        <a href=""> [code]</a>
+    <div class="paper-links">
+        <a href="" class="paper-link">Paper</a> | 
+        <a href="" class="paper-link">Code</a>
     </div>
     <div><i>Huangxing Lin, <strong>Yunlong Lin</strong>, Jingyuan Xia, Linyu Fan, Feifei Li, Yingying Wang, Xinghao Ding</i></div>
   </li>
@@ -188,29 +198,35 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
   <!-- Paper 8 -->
   <li>
     <strong>Domain-irrelevant Feature Learning for Generalizable Pan-sharpening. ACMMM 2023.</strong>
-    <div style="display: inline">
-        <a href=""> [paper]</a>
-        <a href=""> [code]</a>
+    <div class="paper-links">
+        <a href="" class="paper-link">Paper</a> | 
+        <a href="" class="paper-link">Code</a>
     </div>
     <div><i><strong>Yunlong Lin</strong>, Zhenqi Fu, Ge Meng, Yingying Wang, Yuhang Dong, Linyu Fan, Hedeng Yu, Xinghao Ding</i></div>
   </li>
 </ul>
 
-# 🎖 Honors and Awards
-- NTIRE 2025 challenge on day and night raindrop removal for dual-focused images, third place.
-- NTIRE 2025 Low Light Image Enhancement Challenge, sixth place.
-- National Scholarship in Xiamen University, 2024
-- Outstanding Graduate in Jimei University, 2023
-- Second Price of Mathematical Contest In Modeling, 2021
-- First Price of Mathorcup Mathematical Contest in Modeling, 2021
-- First Price of Mathorcup Mathematical Contest in Modeling, 2022
+<div class="section-heading"><span class="section-icon">🎖</span> Honors and Awards</div>
+<ul class="award-list">
+  <li>NTIRE 2025 challenge on day and night raindrop removal for dual-focused images, third place.</li>
+  <li>NTIRE 2025 Low Light Image Enhancement Challenge, sixth place.</li>
+  <li>National Scholarship in Xiamen University, 2024</li>
+  <li>Outstanding Graduate in Jimei University, 2023</li>
+  <li>Second Price of Mathematical Contest In Modeling, 2021</li>
+  <li>First Price of Mathorcup Mathematical Contest in Modeling, 2021</li>
+  <li>First Price of Mathorcup Mathematical Contest in Modeling, 2022</li>
+</ul>
 
-# 📖 Educations
-- Sep'2023-Jul'2026: Master Student, Xiamen University
-- Sep'2019-Jul'2023: B.Eng (Telecommunication Engineering), Jimei University, Xiamen
+<div class="section-heading"><span class="section-icon">📖</span> Educations</div>
+<ul class="education-list">
+  <li>Sep'2023-Jul'2026: Master Student, Xiamen University</li>
+  <li>Sep'2019-Jul'2023: B.Eng (Telecommunication Engineering), Jimei University, Xiamen</li>
+</ul>
 
-# 💬 Academic Service
-- Conference Reviewer: ACMMM 2024/2025, NeurIPS 2024/2025, ICLR 2025, CVPR 2025, ICCV 2025, ICML 2025.
+<div class="section-heading"><span class="section-icon">💬</span> Academic Service</div>
+<ul class="service-list">
+  <li>Conference Reviewer: ACMMM 2024/2025, NeurIPS 2024/2025, ICLR 2025, CVPR 2025, ICCV 2025, ICML 2025.</li>
+</ul>
 </div>
 
 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
@@ -295,7 +311,7 @@ document.addEventListener('DOMContentLoaded', () => {
     font-weight: bold;
 }
 
-/* 基本样式 */
+/* Basic styles */
 .research-areas {
     background: #f8f9fa;
     padding: 25px;
@@ -316,7 +332,7 @@ document.addEventListener('DOMContentLoaded', () => {
     position: relative;
 }
 
-/* 鼠标悬停效果 */
+/* Hover effects */
 .research-item:hover {
     transform: scale(1.03);
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
@@ -329,7 +345,7 @@ document.addEventListener('DOMContentLoaded', () => {
     transition: transform 0.3s ease;
 }
 
-/* 图标动画效果 */
+/* Icon animation effects */
 .research-item:hover .research-icon {
     transform: scale(1.2) rotate(5deg);
 }
@@ -345,7 +361,7 @@ document.addEventListener('DOMContentLoaded', () => {
     transition: color 0.3s ease;
 }
 
-/* 标题颜色变化效果 */
+/* Title color change effect */
 .research-item:hover .research-content h3 {
     color: #1772d0;
 }
@@ -357,57 +373,12 @@ document.addEventListener('DOMContentLoaded', () => {
     transition: color 0.3s ease;
 }
 
-/* 文字颜色变化效果 */
+/* Text color change effect */
 .research-item:hover .research-content p {
     color: #333;
 }
 
-/* 添加tooltip样式 */
-.research-item::after {
-    content: attr(data-tooltip);
-    position: absolute;
-    bottom: 100%;
-    left: 50%;
-    transform: translateX(-50%);
-    padding: 8px;
-    background-color: rgba(0, 0, 0, 0.8);
-    color: white;
-    border-radius: 6px;
-    font-size: 14px;
-    white-space: nowrap;
-    opacity: 0;
-    visibility: hidden;
-    transition: all 0.3s ease;
-    z-index: 1000;
-}
-
-.research-item:hover::after {
-    opacity: 1;
-    visibility: visible;
-    bottom: calc(100% + 10px);
-}
-
-/* 添加箭头 */
-.research-item::before {
-    content: '';
-    position: absolute;
-    bottom: 100%;
-    left: 50%;
-    transform: translateX(-50%);
-    border: 6px solid transparent;
-    border-top-color: rgba(0, 0, 0, 0.8);
-    opacity: 0;
-    visibility: hidden;
-    transition: all 0.3s ease;
-}
-
-.research-item:hover::before {
-    opacity: 1;
-    visibility: visible;
-    bottom: calc(100% + 4px);
-}
-
-/* 页面加载动画 */
+/* Page loading animation */
 @keyframes fadeInUp {
     from {
         opacity: 0;
@@ -419,16 +390,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 }
 
-/* 为主要内容块添加动画 */
+/* Add animation to main content blocks */
 .research-areas,
-h1, h2, h3, .paper-box, ul {
+.section-heading, .paper-box, ul {
     animation: fadeInUp 0.8s ease-out forwards;
     opacity: 0;
 }
 
-/* 为不同部分设置不同的动画延迟 */
-h1 { animation-delay: 0.2s; }
-h2 { animation-delay: 0.3s; }
+/* Set different animation delays for different sections */
+.section-heading { animation-delay: 0.2s; }
 .research-areas { animation-delay: 0.4s; }
 .paper-box:nth-child(1) { animation-delay: 0.5s; }
 .paper-box:nth-child(2) { animation-delay: 0.6s; }
@@ -436,7 +406,7 @@ h2 { animation-delay: 0.3s; }
 .paper-box:nth-child(4) { animation-delay: 0.8s; }
 ul { animation-delay: 0.9s; }
 
-/* 粒子背景 */
+/* Particle background */
 #particles-js {
     position: fixed;
     top: 0;
@@ -447,13 +417,13 @@ ul { animation-delay: 0.9s; }
     background: linear-gradient(45deg, #f3f4f6 0%, #fff 100%);
 }
 
-/* 确保内容在粒子之上 */
+/* Ensure content is above particles */
 .wrapper {
     position: relative;
     z-index: 1;
 }
 
-/* 为内容添加玻璃态效果 */
+/* Add glass effect to content */
 .research-areas,
 .paper-box {
     background: rgba(255, 255, 255, 0.8);
@@ -466,7 +436,7 @@ ul { animation-delay: 0.9s; }
     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
 }
 
-/* 添加炫酷的渐变边框效果 */
+/* Add cool gradient border effect */
 .research-item::before {
     content: '';
     position: absolute;
@@ -492,7 +462,7 @@ ul { animation-delay: 0.9s; }
     100% { background-position: 0% 50%; }
 }
 
-/* 添加霓虹光效果 */
+/* Add neon light effect */
 .research-icon {
     text-shadow: 0 0 10px rgba(23, 114, 208, 0.5);
     animation: glowing 2s ease-in-out infinite;
@@ -504,7 +474,7 @@ ul { animation-delay: 0.9s; }
     100% { filter: drop-shadow(0 0 2px rgba(23, 114, 208, 0.5)); }
 }
 
-/* 优化标题动画效果 */
+/* Optimize title animation effect */
 .research-content h3 {
     background: linear-gradient(120deg, #1772d0, #6c5ce7, #1772d0);
     background-size: 200% auto;
@@ -520,7 +490,7 @@ ul { animation-delay: 0.9s; }
     100% { background-position: 0% 50%; }
 }
 
-/* 为论文卡片添加悬停效果 */
+/* Add hover effect for paper cards */
 .paper-box {
     transition: all 0.3s ease;
 }
@@ -530,15 +500,86 @@ ul { animation-delay: 0.9s; }
     box-shadow: 0 15px 30px rgba(0,0,0,0.1);
 }
 
-/* 为论文标题添加样式 */
-.paper-box-text a {
-    font-weight: bold;
-    transition: all 0.3s ease;
+/* Hide link URLs */
+a[href]:after {
+    content: none !important;
 }
 
-.paper-box-text a:hover {
+/* Paper styling */
+.paper-title {
+    font-weight: bold;
+    color: #333;
+    text-decoration: none !important;
+    border-bottom: none !important;
+}
+
+.paper-title:hover {
+    color: #1772d0;
+    text-decoration: none !important;
+}
+
+.paper-link {
+    color: #1772d0;
+    text-decoration: none !important;
+    border-bottom: none !important;
+}
+
+.paper-link:hover {
     color: #6c5ce7;
-    text-decoration: none;
+    text-decoration: none !important;
+}
+
+.paper-links {
+    margin: 5px 0;
+}
+
+.paper-list li {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.paper-list li:last-child {
+    border-bottom: none;
+}
+
+/* Section headings */
+.section-heading {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    color: #333;
+    border-bottom: 2px solid #f0f0f0;
+    padding-bottom: 0.5em;
+}
+
+.section-icon {
+    margin-right: 0.5em;
+}
+
+/* List styling */
+.award-list li,
+.education-list li,
+.service-list li {
+    margin-bottom: 0.5em;
+    position: relative;
+    padding-left: 1em;
+}
+
+.award-list li:before,
+.education-list li:before,
+.service-list li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #1772d0;
+}
+
+/* Ensure proper line breaks */
+.page__content p,
+.page__content li {
+    margin-bottom: 0.75em;
 }
 </style>
 

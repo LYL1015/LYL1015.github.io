@@ -22,7 +22,7 @@ redirect_from:
 <div class="wrapper">
 Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen University (XMU) @<a href="https://xmu-smartdsp.github.io/">SmartDSP</a> advised by <a href="https://scholar.google.com.hk/citations?user=k5hVBfMAAAAJ&hl=zh-CN">Prof. Xinghao Ding</a>. My research focuses on advancing computational photography for visual enhancement and scene reconstruction, developing multimodal learning frameworks for cross-modal understanding, contextual reasoning, and adaptive skill acquisition, and building intelligent agents capable of perception, decision-making, and autonomous action. Key research areas and methodologies include:
 
-<div id="motto" class="typed-motto"></div>
+<!-- <div id="motto" class="typed-motto"></div> -->
 
 <!-- <script>
 document.addEventListener('DOMContentLoaded', function() {

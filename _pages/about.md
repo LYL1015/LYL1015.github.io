@@ -119,26 +119,26 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
 
   
   <!-- Paper 1 -->
-  <li>
+  <!-- <li>
     <strong>Sp3ctralMamba: Physics-Driven Joint State Space Model for Hyperspectral Image Reconstruction. AAAI 2025 Oral.</strong>
     <div style="display: inline">
         <a href=""> [paper]</a>
         <a href=""> [code]</a>
     </div>
     <div><i>Ge Meng, Jingyan Tu, Jingjia Huang, <strong>Yunlong Lin</strong>, Yingying Wang, Xiaotong Tu, Yue Huang, Xinghao Ding</i></div>
-  </li>
+  </li> -->
 
   <!-- ------------------------------------ -->
 
   <!-- Paper 1 -->
-  <li>
+  <!-- <li>
     <strong>Accelerated Diffusion via High-Low Frequency Decomposition for Pan-sharpening. AAAI 2025 Oral.</strong>
     <div style="display: inline">
         <a href=""> [paper]</a>
         <a href=""> [code]</a>
     </div>
     <div><i>Ge Meng, Jingjia Huang, Jingyan Tu, Yingying Wang, <strong>Yunlong Lin</strong>, Xiaotong Tu, Yue Huang, Xinghao Ding</i></div>
-  </li>
+  </li> -->
 
   <!-- ------------------------------------ -->
 
@@ -166,25 +166,25 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
 
   <!-- ------------------------------------ -->
   <!-- Paper 3 -->
-  <li>
+  <!-- <li>
     <strong>Frequency decoupled domain-irrelevant feature learning for Pan-sharpening. TCSVT 2024.</strong>
     <div style="display: inline">
         <a href="https://ieeexplore.ieee.org/abstract/document/10718360"> [paper]</a>
         <a href=""> [code]</a>
     </div>
     <div><i>Jie Zhang, Ke Cao, Keyu Yan, <strong>Yunlong Lin</strong>, Xuanhua He, Yingying Wang, Rui Li, Chengjun Xie, Jun Zhang, Man Zhou</i></div>
-  </li>
+  </li> -->
 
   <!-- ------------------------------------ -->
   <!-- Paper 4 -->
-  <li>
+  <!-- <li>
     <strong>Cross-Modality Interaction Network for Pan-sharpening. TGRS 2024.</strong>
     <div style="display: inline">
         <a href=""> [paper]</a>
         <a href=""> [code]</a>
     </div>
     <div><i>Yingying Wang, Xuanhua He, Yuhang Dong, <strong>Yunlong Lin</strong>, Yue Huang, Xinghao Ding</i></div>
-  </li>
+  </li> -->
 
   <!-- ------------------------------------ -->
   <!-- Paper 5 -->
@@ -199,29 +199,31 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
 
   <!-- ------------------------------------ -->
   <!-- Paper 6 -->
-  <li>
+  <!-- <li>
     <strong>Learning High-frequency Feature Enhancement and Alignment for Pan-sharpening. ACMMM 2023 Oral.</strong>
     <div style="display: inline">
         <a href=""> [paper]</a>
         <a href=""> [code]</a>
     </div>
     <div><i>Yingying Wang, <strong>Yunlong Lin</strong>, Ge Meng, Zhenqi Fu, Yuhang Dong, Linyu Fan, Hedeng Yu, Xinghao Ding, Yue Huang</i></div>
-  </li>
+  </li> -->
 
   <!-- ------------------------------------ -->
   <!-- Paper 7 -->
-  <li>
+  <!-- <li>
     <strong>CPLFormer: Cross-scale Prototype Learning Transformer for Image Snow Removal. ACMMM 2023.</strong>
     <div style="display: inline">
         <a href=""> [paper]</a>
         <a href=""> [code]</a>
     </div>
     <div><i>Sixiang Chen, Tian Ye, Yun Liu, Jinbin Bai, Haoyu Chen, <strong>Yunlong Lin</strong>, Jun Shi, Erkang Chen</i></div>
-  </li>
+  </li> -->
 </ul>
 
 
 # 🎖 Honors and Awards
+- NTIRE 2025 challenge on day and night raindrop removal for dual-focused images, third place.
+- NTIRE 2025 Low Light Image Enhancement Challenge, sixth place.
 - National Scholarship in Xiamen University, 2024
 - Outstanding Graduate in Jimei University, 2023
 - Second Price of Mathematical Contest In Modeling, 2021

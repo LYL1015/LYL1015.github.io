@@ -110,6 +110,24 @@ I am actively seeking collaborations and currently looking for <span style="colo
 
 <div class="section-heading"><span class="section-icon">📝</span> Publications</div>
 
+<!-- Paper 0 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/papers/jarvisart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="" class="paper-title">JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent</a>
+
+**Yunlong Lin\***, Zixu Lin\*, Kunjie Lin, Jinbin Bai, Panwang Pan, Chenxin Li, Haoyu Chen, Zhongdao Wang, Xinghao Ding†, Wenbo Li, Shuicheng Yan†
+
+<a href="" class="paper-link">PDF</a> | 
+<a href="" class="paper-link">Project</a> | 
+<a href="" class="paper-link">Code</a>
+</div>
+</div>
+
+
+
+
+
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><video src='images/papers/jarvisir.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
 <div class='paper-box-text' markdown="1">
@@ -124,6 +142,7 @@ I am actively seeking collaborations and currently looking for <span style="colo
 </div>
 </div>
 
+
 <!-- Paper 2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><video src='images/papers/LIE.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
 <div class='paper-box-text' markdown="1">
@@ -137,6 +156,21 @@ I am actively seeking collaborations and currently looking for <span style="colo
 <a href="https://github.com/LYL1015/AGLLDiff" class="paper-link">Code</a>
 </div>
 </div>
+
+<!-- Paper 2.5 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><video src='images/papers/dynamicverse.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="" class="paper-title">DynamicVerse: Physically-Aware Multimodal Modeling for Dynamic 4D Worlds</a>
+
+Kairun Wen, Yuzhi Huang, Runyu Chen, Hui Zheng, **Yunlong Lin**, Panwang Pan, Chenxin Li, Wenyan Cong, Jian Zhang, Junbin Lu, Chenguo Lin, Dilin Wang, Zhicheng Yan, Hongyu Xu, Justin Theiss, Yue Huang, Xinghao Ding, Rakesh Ranjan, Zhiwen Fan
+
+<a href="" class="paper-link">PDF</a> | 
+<a href="https://dynamic-verse.github.io/" class="paper-link">Project</a>
+</div>
+</div>
+
+
 
 <!-- Paper 3 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/papers/dplut.png' alt="sym" width="100%"></div></div>

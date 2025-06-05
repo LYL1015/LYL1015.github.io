@@ -116,7 +116,7 @@ I am actively seeking collaborations and currently looking for <span style="colo
 
 <a href="" class="paper-title">JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent</a>
 
-**Yunlong Lin\***, Zixu Lin\*, Kunjie Lin, Jinbin Bai, Panwang Pan, Chenxin Li, Haoyu Chen, Zhongdao Wang, Xinghao Ding†, Wenbo Li, Shuicheng Yan†
+**Yunlong Lin\***, Zixu Lin\*, Kunjie Lin\*, Jinbin Bai, Panwang Pan, Chenxin Li, Haoyu Chen, Zhongdao Wang, Xinghao Ding†, Wenbo Li, Shuicheng Yan†
 
 <a href="" class="paper-link">PDF</a> | 
 <a href="" class="paper-link">Project</a> | 

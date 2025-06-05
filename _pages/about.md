@@ -20,7 +20,7 @@ redirect_from:
 <div id="particles-js"></div>
 
 <div class="wrapper">
-Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen University (XMU) @<a href="https://xmu-smartdsp.github.io/">SmartDSP</a> advised by <a href="https://scholar.google.com.hk/citations?user=k5hVBfMAAAAJ&hl=zh-CN">Prof. Xinghao Ding</a>. My research focuses on advancing computational photography for visual enhancement and scene reconstruction, developing multimodal learning frameworks for cross-modal understanding, contextual reasoning, and adaptive skill acquisition, and building intelligent agents capable of perception, decision-making, and autonomous action. Key research areas and methodologies include:
+ Welcome to my academic homepage. I am <strong>Yunlong Lin</strong>, a Master student at Xiamen University (XMU) @<a href="https://xmu-smartdsp.github.io/">SmartDSP</a> advised by <a href="https://scholar.google.com.hk/citations?user=k5hVBfMAAAAJ&hl=zh-CN">Prof. Xinghao Ding</a>. My key research areas and methodologies include:
 
 <!-- <div id="motto" class="typed-motto"></div> -->
 
@@ -63,15 +63,6 @@ document.addEventListener('DOMContentLoaded', function() {
             <p>Vision and language, Visual reasoning, Generalist models</p>
         </div>
     </div>
-
-    <div class="research-item">
-        <div class="research-icon">🔍</div>
-        <div class="research-content">
-            <h3>Inverse Problems</h3>
-            <p>Real-world degradation restoration, Generative priors</p>
-        </div>
-    </div>
-
     <div class="research-item">
         <div class="research-icon">🤖</div>
         <div class="research-content">
@@ -79,7 +70,13 @@ document.addEventListener('DOMContentLoaded', function() {
             <p>Planning and Decision-Making, Reinforcement learning</p>
         </div>
     </div>
-
+    <div class="research-item">
+        <div class="research-icon">🔍</div>
+        <div class="research-content">
+            <h3>Inverse Problems</h3>
+            <p>Real-world degradation restoration, Generative priors</p>
+        </div>
+    </div>
     <div class="research-item">
         <div class="research-icon">🌐</div>
         <div class="research-content">
@@ -108,15 +105,15 @@ I am actively seeking collaborations and currently looking for <span style="colo
   <li>Three papers accepted by ACMMM'23 (1 oral)!</li>
 </ul>
 
-<div class="section-heading"><span class="section-icon">📝</span> Publications</div>
 
+<div class="section-heading"><span class="section-icon">🔬</span> Ongoing Research</div>
 <!-- Paper 0 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/papers/jarvisart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/papers/jarvisart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="" class="paper-title">JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent</a>
 
-**Yunlong Lin\***, Zixu Lin\*, Kunjie Lin\*, Jinbin Bai, Panwang Pan, Chenxin Li, Haoyu Chen, Zhongdao Wang, Xinghao Ding†, Wenbo Li, Shuicheng Yan†
+**Yunlong Lin\***, Zixu Lin\*, Kunjie Lin\*, Jinbin Bai, Panwang Pan, Chenxin Li, Haoyu Chen, Zhongdao Wang, Xinghao Ding†, Wenbo Li♣️, Shuicheng Yan†
 
 <a href="" class="paper-link">PDF</a> | 
 <a href="" class="paper-link">Project</a> | 
@@ -124,9 +121,24 @@ I am actively seeking collaborations and currently looking for <span style="colo
 </div>
 </div>
 
+<!-- Paper 2.5 -->
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><video src='images/papers/dynamicverse.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="" class="paper-title">DynamicVerse: Physically-Aware Multimodal Modeling for Dynamic 4D Worlds</a>
+
+Kairun Wen, Yuzhi Huang, Runyu Chen, Hui Zheng, **Yunlong Lin**, Panwang Pan, Chenxin Li, Wenyan Cong, Jian Zhang, Junbin Lu, Chenguo Lin, Dilin Wang, Zhicheng Yan, Hongyu Xu, Justin Theiss, Yue Huang, Xinghao Ding, Rakesh Ranjan, Zhiwen Fan
+
+<a href="" class="paper-link">PDF</a> | 
+<a href="https://dynamic-verse.github.io/" class="paper-link">Project</a>
+</div>
+</div>
 
 
 
+
+
+<div class="section-heading"><span class="section-icon">📝</span> Publications</div>
 
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><video src='images/papers/jarvisir.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
@@ -154,19 +166,6 @@ I am actively seeking collaborations and currently looking for <span style="colo
 <a href="https://arxiv.org/pdf/2407.14900" class="paper-link">PDF</a> | 
 <a href="https://aglldiff.github.io" class="paper-link">Project</a> | 
 <a href="https://github.com/LYL1015/AGLLDiff" class="paper-link">Code</a>
-</div>
-</div>
-
-<!-- Paper 2.5 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><video src='images/papers/dynamicverse.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a href="" class="paper-title">DynamicVerse: Physically-Aware Multimodal Modeling for Dynamic 4D Worlds</a>
-
-Kairun Wen, Yuzhi Huang, Runyu Chen, Hui Zheng, **Yunlong Lin**, Panwang Pan, Chenxin Li, Wenyan Cong, Jian Zhang, Junbin Lu, Chenguo Lin, Dilin Wang, Zhicheng Yan, Hongyu Xu, Justin Theiss, Yue Huang, Xinghao Ding, Rakesh Ranjan, Zhiwen Fan
-
-<a href="" class="paper-link">PDF</a> | 
-<a href="https://dynamic-verse.github.io/" class="paper-link">Project</a>
 </div>
 </div>
 
@@ -614,6 +613,17 @@ a[href]:after {
 .page__content p,
 .page__content li {
     margin-bottom: 0.75em;
+}
+
+.ongoing-research {
+    border-left: 4px solid #4CAF50;
+    background: linear-gradient(to right, rgba(76, 175, 80, 0.1), rgba(255, 255, 255, 0));
+    transition: all 0.3s ease;
+}
+.ongoing-research:hover {
+    border-left: 4px solid #2E7D32;
+    box-shadow: 0 4px 20px rgba(76, 175, 80, 0.2);
+    transform: translateY(-5px);
 }
 </style>
 

@@ -135,7 +135,7 @@ Kairun Wen, Yuzhi Huang, Runyu Chen, Hui Zheng, **Yunlong Lin**, Panwang Pan, Ch
 </div>
 
 <!-- Paper 2.5 -->
-<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><video src='images/papers/dynamicverse.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/papers/postercraft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="" class="paper-title">PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework</a>

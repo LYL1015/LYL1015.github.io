@@ -134,7 +134,20 @@ Kairun Wen, Yuzhi Huang, Runyu Chen, Hui Zheng, **Yunlong Lin**, Panwang Pan, Ch
 </div>
 </div>
 
+<!-- Paper 2.5 -->
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><video src='images/papers/dynamicverse.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
+<div class='paper-box-text' markdown="1">
 
+<a href="" class="paper-title">PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework</a>
+
+Sixiang Chen, Jianyu Lai1, Jialin Gao2, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong Shao, **Yunlong Lin**, Song Fei, Zhaohu Xing, Yeying Jin, Junfeng Luo, Xiaoming Wei, Lei Zhu
+
+<a href="https://arxiv.org/abs/2506.10741" class="paper-link">PDF</a> | 
+<a href="https://ephemeral182.github.io/PosterCraft/" class="paper-link">Project</a> | 
+<a href="https://github.com/Ephemeral182/PosterCraft" class="paper-link">Code</a> | 
+<a href="https://www.youtube.com/watch?v=92wMU4D7qx0" class="paper-link">Demo Video</a> 
+</div>
+</div>
 
 
 
@@ -150,7 +163,8 @@ Kairun Wen, Yuzhi Huang, Runyu Chen, Hui Zheng, **Yunlong Lin**, Panwang Pan, Ch
 
 <a href="./papers/CVPR2025_JarvisIR.pdf" class="paper-link">PDF</a> | 
 <a href="https://cvpr2025-jarvisir.github.io/" class="paper-link">Project</a> | 
-<a href="https://github.com/LYL1015/JarvisIR" class="paper-link">Code</a>
+<a href="https://github.com/LYL1015/JarvisIR" class="paper-link">Code</a> | 
+<a href="https://huggingface.co/spaces/LYL1015/JarvisIR" class="paper-link">🤗 Online Demo</a>
 </div>
 </div>
 

@@ -140,7 +140,7 @@ Kairun Wen, Yuzhi Huang, Runyu Chen, Hui Zheng, **Yunlong Lin**, Panwang Pan, Ch
 
 <a href="" class="paper-title">PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework</a>
 
-Sixiang Chen, Jianyu Lai1, Jialin Gao2, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong Shao, **Yunlong Lin**, Song Fei, Zhaohu Xing, Yeying Jin, Junfeng Luo, Xiaoming Wei, Lei Zhu
+Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong Shao, **Yunlong Lin**, Song Fei, Zhaohu Xing, Yeying Jin, Junfeng Luo, Xiaoming Wei, Lei Zhu
 
 <a href="https://arxiv.org/abs/2506.10741" class="paper-link">PDF</a> | 
 <a href="https://ephemeral182.github.io/PosterCraft/" class="paper-link">Project</a> | 

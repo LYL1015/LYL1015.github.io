@@ -115,8 +115,8 @@ I am actively seeking collaborations and currently looking for <span style="colo
 
 **Yunlong Lin\***, Zixu Lin\*, Kunjie Lin\*, Jinbin Bai, Panwang Pan, Chenxin Li, Haoyu Chen, Zhongdao Wang, Xinghao Ding†, Wenbo Li<sup>♣️</sup>, Shuicheng Yan†
 
-<a href="" class="paper-link">PDF</a> | 
-<a href="" class="paper-link">Project</a> | 
+<a href="https://arxiv.org/pdf/2506.17612" class="paper-link">PDF</a> | 
+<a href="https://jarvisart.vercel.app/" class="paper-link">Project</a> | 
 <a href="" class="paper-link">Code</a>
 </div>
 </div>

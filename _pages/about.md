@@ -117,7 +117,7 @@ I am actively seeking collaborations and currently looking for <span style="colo
 
 <a href="https://arxiv.org/pdf/2506.17612" class="paper-link">PDF</a> | 
 <a href="https://jarvisart.vercel.app/" class="paper-link">Project</a> | 
-<a href="" class="paper-link">Code</a>
+<a href="https://github.com/LYL1015/JarvisArt" class="paper-link">Code</a>
 </div>
 </div>
 

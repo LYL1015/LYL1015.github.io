@@ -109,7 +109,7 @@ I am actively seeking collaborations and currently looking for <span style="colo
 
 <div class="section-heading"><span class="section-icon">🔬</span> Ongoing Research</div>
 <!-- Paper 0 -->
-<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><video src='images/papers/JarvisArt宣传片.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/papers/jarvisart.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="" class="paper-title">JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent</a>

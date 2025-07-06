@@ -96,6 +96,7 @@ I am actively seeking collaborations and currently looking for <span style="colo
 
 <div class="section-heading"><span class="section-icon">🔥</span> News</div>
 <ul>
+  <li>One paper accepted by ICCV'25!</li>
   <li>Three papers accepted by CVPR'25!</li>
   <li>Four papers accepted by AAAI'25 (2 oral)!</li>
   <li>One paper accepted by ECCV'24!</li>
@@ -108,16 +109,20 @@ I am actively seeking collaborations and currently looking for <span style="colo
 
 <div class="section-heading"><span class="section-icon">🔬</span> Ongoing Research</div>
 <!-- Paper 0 -->
-<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/papers/jarvisart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><video src='images/papers/JarvisArt宣传片.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="" class="paper-title">JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent</a>
 
 **Yunlong Lin\***, Zixu Lin\*, Kunjie Lin\*, Jinbin Bai, Panwang Pan, Chenxin Li, Haoyu Chen, Zhongdao Wang, Xinghao Ding†, Wenbo Li<sup>♣️</sup>, Shuicheng Yan†
 
-<a href="https://arxiv.org/pdf/2506.17612" class="paper-link">PDF</a> | 
-<a href="https://jarvisart.vercel.app/" class="paper-link">Project</a> | 
-<a href="https://github.com/LYL1015/JarvisArt" class="paper-link">Code</a>
+<a href="https://arxiv.org/pdf/2506.17612" class="paper-link">📄 PDF</a> | 
+<a href="https://jarvisart.vercel.app/" class="paper-link">🌐 Project</a> | 
+<a href="https://huggingface.co/papers/2506.17612" class="paper-link">🤗 HF Paper</a> | 
+<a href="https://x.com/ling_yunlong/status/1940010865627103419" class="paper-link">🐦 Twitter</a> | 
+<a href="https://www.youtube.com/watch?v=Ol28DQj8wV8" class="paper-link">📺 YouTube</a> | 
+<a href="https://www.bilibili.com/video/BV1Sd3nzREvP" class="paper-link">📹 Bilibili</a> ｜
+<a href="https://github.com/LYL1015/JarvisArt" class="paper-link">💻 Code <img src="https://img.shields.io/github/stars/LYL1015/JarvisArt?style=social" alt="GitHub Stars"></a>
 </div>
 </div>
 
@@ -129,8 +134,8 @@ I am actively seeking collaborations and currently looking for <span style="colo
 
 Kairun Wen, Yuzhi Huang, Runyu Chen, Hui Zheng, **Yunlong Lin**, Panwang Pan, Chenxin Li, Wenyan Cong, Jian Zhang, Junbin Lu, Chenguo Lin, Dilin Wang, Zhicheng Yan, Hongyu Xu, Justin Theiss, Yue Huang, Xinghao Ding, Rakesh Ranjan, Zhiwen Fan
 
-<a href="" class="paper-link">PDF</a> | 
-<a href="https://dynamic-verse.github.io/" class="paper-link">Project</a>
+<a href="" class="paper-link">📄 PDF</a> | 
+<a href="https://dynamic-verse.github.io/" class="paper-link">🌐 Project</a>
 </div>
 </div>
 
@@ -142,10 +147,10 @@ Kairun Wen, Yuzhi Huang, Runyu Chen, Hui Zheng, **Yunlong Lin**, Panwang Pan, Ch
 
 Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong Shao, **Yunlong Lin**, Song Fei, Zhaohu Xing, Yeying Jin, Junfeng Luo, Xiaoming Wei, Lei Zhu
 
-<a href="https://arxiv.org/abs/2506.10741" class="paper-link">PDF</a> | 
-<a href="https://ephemeral182.github.io/PosterCraft/" class="paper-link">Project</a> | 
-<a href="https://github.com/Ephemeral182/PosterCraft" class="paper-link">Code</a> | 
-<a href="https://www.youtube.com/watch?v=92wMU4D7qx0" class="paper-link">Demo Video</a> 
+<a href="https://arxiv.org/abs/2506.10741" class="paper-link">📄 PDF</a> | 
+<a href="https://ephemeral182.github.io/PosterCraft/" class="paper-link">🌐 Project</a> | 
+<a href="https://github.com/Ephemeral182/PosterCraft" class="paper-link">💻 Code</a> | 
+<a href="https://www.youtube.com/watch?v=92wMU4D7qx0" class="paper-link">📹 Demo Video</a> 
 </div>
 </div>
 
@@ -161,10 +166,10 @@ Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong S
 
 **Yunlong Lin\***, Zixu Lin\*, Haoyu Chen\*, Panwang Pan\*, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding
 
-<a href="./papers/CVPR2025_JarvisIR.pdf" class="paper-link">PDF</a> | 
-<a href="https://cvpr2025-jarvisir.github.io/" class="paper-link">Project</a> | 
-<a href="https://github.com/LYL1015/JarvisIR" class="paper-link">Code</a> | 
-<a href="https://huggingface.co/spaces/LYL1015/JarvisIR" class="paper-link">🤗 Online Demo</a>
+<a href="./papers/CVPR2025_JarvisIR.pdf" class="paper-link">📄 PDF</a> | 
+<a href="https://cvpr2025-jarvisir.github.io/" class="paper-link">🌐 Project</a> | 
+<a href="https://huggingface.co/spaces/LYL1015/JarvisIR" class="paper-link">🤗 Online Demo</a> ｜
+<a href="https://github.com/LYL1015/JarvisIR" class="paper-link">💻 Code <img src="https://img.shields.io/github/stars/LYL1015/JarvisIR?style=social" alt="GitHub Stars"></a> 
 </div>
 </div>
 
@@ -177,9 +182,9 @@ Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong S
 
 **Yunlong Lin\***, Tian Ye\*, Sixiang Chen\*, Zhenqi Fu, Yingying Wang, Wenhao Chai, Zhaohu Xing, Lei Zhu, Xinghao Ding.
 
-<a href="https://arxiv.org/pdf/2407.14900" class="paper-link">PDF</a> | 
-<a href="https://aglldiff.github.io" class="paper-link">Project</a> | 
-<a href="https://github.com/LYL1015/AGLLDiff" class="paper-link">Code</a>
+<a href="https://arxiv.org/pdf/2407.14900" class="paper-link">📄 PDF</a> | 
+<a href="https://aglldiff.github.io" class="paper-link">🌐 Project</a> | 
+<a href="https://github.com/LYL1015/AGLLDiff" class="paper-link">💻 Code</a>
 </div>
 </div>
 
@@ -193,8 +198,8 @@ Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong S
 
 **Yunlong Lin\***, Zhenqi Fu\*, Kairun Wen, Tian Ye, Sixiang Chen, Ge Meng, Yingying Wang, Yue Huang, Xiaotong Tu, Xinghao Ding.
 
-<a href="https://arxiv.org/pdf/2409.18899" class="paper-link">PDF</a> | 
-<a href="https://dplut.github.io/" class="paper-link">Project</a>
+<a href="https://arxiv.org/pdf/2409.18899" class="paper-link">📄 PDF</a> | 
+<a href="https://dplut.github.io/" class="paper-link">🌐 Project</a>
 </div>
 </div>
 
@@ -206,8 +211,8 @@ Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong S
 
 Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaohu Xing, Hongtao Wu, Weiming Wang, Lei Zhu.
 
-<a href="" class="paper-link">PDF</a> | 
-<a href="" class="paper-link">Project</a>
+<a href="" class="paper-link">📄 PDF</a> | 
+<a href="" class="paper-link">🌐 Project</a>
 </div>
 </div>
 
@@ -216,8 +221,8 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
   <li>
     <strong>Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline. CVPR 2025.</strong>
     <div class="paper-links">
-        <a href="" class="paper-link">Paper</a> | 
-        <a href="" class="paper-link">Code</a>
+        <a href="" class="paper-link">📄 Paper</a> | 
+        <a href="" class="paper-link">💻 Code</a>
     </div>
     <div><i>Yuzhi Huang, Chenxin Li, Haitao Zhang, Zixu Lin, <strong>Yunlong Lin</strong>, Hengyu Liu, Wuyang Li, Xinyu Liu, Jiechao Gao, Yue Huang, Xinghao Ding, Yixuan Yuan.</i></div>
   </li>
@@ -226,8 +231,8 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
   <li>
     <strong>Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint. ECCV 2024.</strong>
     <div class="paper-links">
-        <a href="" class="paper-link">Paper</a> | 
-        <a href="" class="paper-link">Code</a>
+        <a href="" class="paper-link">📄 Paper</a> | 
+        <a href="" class="paper-link">💻 Code</a>
     </div>
     <div><i>Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, <strong>Yunlong Lin</strong>, Lei Zhu</i></div>
   </li>
@@ -236,8 +241,8 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
   <li>
     <strong>Fusion2Void: Unsupervised Multi-focus Image Fusion Based on Image Inpainting. TCSVT 2024.</strong>
     <div class="paper-links">
-        <a href="" class="paper-link">Paper</a> | 
-        <a href="" class="paper-link">Code</a>
+        <a href="" class="paper-link">📄 Paper</a> | 
+        <a href="" class="paper-link">💻 Code</a>
     </div>
     <div><i>Huangxing Lin, <strong>Yunlong Lin</strong>, Jingyuan Xia, Linyu Fan, Feifei Li, Yingying Wang, Xinghao Ding</i></div>
   </li>
@@ -246,8 +251,8 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
   <li>
     <strong>Domain-irrelevant Feature Learning for Generalizable Pan-sharpening. ACMMM 2023.</strong>
     <div class="paper-links">
-        <a href="" class="paper-link">Paper</a> | 
-        <a href="" class="paper-link">Code</a>
+        <a href="" class="paper-link">📄 Paper</a> | 
+        <a href="" class="paper-link">💻 Code</a>
     </div>
     <div><i><strong>Yunlong Lin</strong>, Zhenqi Fu, Ge Meng, Yingying Wang, Yuhang Dong, Linyu Fan, Hedeng Yu, Xinghao Ding</i></div>
   </li>

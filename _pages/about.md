@@ -96,6 +96,7 @@ I am actively seeking collaborations and currently looking for <span style="colo
 
 <div class="section-heading"><span class="section-icon">🔥</span> News</div>
 <ul>
+  <li>Five paper accepted by NeurIPS'25! (4 poster and 1 oral)</li>
   <li>One paper accepted by ICCV'25!</li>
   <li>Three papers accepted by CVPR'25!</li>
   <li>Four papers accepted by AAAI'25 (2 oral)!</li>
@@ -107,9 +108,9 @@ I am actively seeking collaborations and currently looking for <span style="colo
 </ul>
 
 
-<div class="section-heading"><span class="section-icon">🔬</span> Ongoing Research</div>
+<div class="section-heading"><span class="section-icon">🔬</span> Highlight Research</div>
 <!-- Paper 0 -->
-<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/papers/jarvisart.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/jarvisart.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="" class="paper-title">JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent</a>
@@ -126,8 +127,24 @@ I am actively seeking collaborations and currently looking for <span style="colo
 </div>
 </div>
 
+<!-- Paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><video src='images/papers/jarvisir.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="" class="paper-title">JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration</a>
+
+**Yunlong Lin\***, Zixu Lin\*, Haoyu Chen\*, Panwang Pan\*, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding
+
+<a href="./papers/CVPR2025_JarvisIR.pdf" class="paper-link">📄 PDF</a> | 
+<a href="https://cvpr2025-jarvisir.github.io/" class="paper-link">🌐 Project</a> | 
+<a href="https://huggingface.co/spaces/LYL1015/JarvisIR" class="paper-link">🤗 Online Demo</a> ｜
+<a href="https://github.com/LYL1015/JarvisIR" class="paper-link">💻 Code <img src="https://img.shields.io/github/stars/LYL1015/JarvisIR?style=social" alt="GitHub Stars"></a> 
+</div>
+</div>
+
+
 <!-- Paper 2.5 -->
-<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><video src='images/papers/dynamicverse.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><video src='images/papers/dynamicverse.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="" class="paper-title">DynamicVerse: Physically-Aware Multimodal Modeling for Dynamic 4D Worlds</a>
@@ -157,21 +174,6 @@ Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong S
 
 
 <div class="section-heading"><span class="section-icon">📝</span> Publications</div>
-
-<!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><video src='images/papers/jarvisir.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a href="" class="paper-title">JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration</a>
-
-**Yunlong Lin\***, Zixu Lin\*, Haoyu Chen\*, Panwang Pan\*, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding
-
-<a href="./papers/CVPR2025_JarvisIR.pdf" class="paper-link">📄 PDF</a> | 
-<a href="https://cvpr2025-jarvisir.github.io/" class="paper-link">🌐 Project</a> | 
-<a href="https://huggingface.co/spaces/LYL1015/JarvisIR" class="paper-link">🤗 Online Demo</a> ｜
-<a href="https://github.com/LYL1015/JarvisIR" class="paper-link">💻 Code <img src="https://img.shields.io/github/stars/LYL1015/JarvisIR?style=social" alt="GitHub Stars"></a> 
-</div>
-</div>
 
 
 <!-- Paper 2 -->

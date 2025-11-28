@@ -280,10 +280,7 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
 <div class="section-heading"><span class="section-icon">💼</span> Experience</div>
 <ul class="experience-list">
     <li>
-        Jun'2025 - Present: Intern, Tencent Hunyuan (Tencent AI Lab)**
-        <div class="job-description">
-            <span class="location">Shenzhen, China</span>
-            </div>
+        Jun'2025 - Present: Qingyun Intern, Tencent Hunyuan
     </li>
 </ul>
 

@@ -277,6 +277,17 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
   <li>Sep'2019-Jul'2023: B.Eng (Telecommunication Engineering), Jimei University, Xiamen</li>
 </ul>
 
+<div class="section-heading"><span class="section-icon">💼</span> Experience</div>
+<ul class="experience-list">
+    <li>
+        **Jun'2025 - Present: Intern, Tencent Hunyuan (Tencent AI Lab)**
+        <div class="job-description">
+            <span class="location">Shenzhen, China</span>
+            </div>
+    </li>
+</ul>
+
+
 <div class="section-heading"><span class="section-icon">💬</span> Academic Service</div>
 <ul class="service-list">
   <li>Conference Reviewer: ACMMM 2024/2025, NeurIPS 2024/2025, ICLR 2025, CVPR 2025, ICCV 2025, ICML 2025.</li>

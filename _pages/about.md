@@ -228,49 +228,49 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
 </div>
 </div>
 
-<ul class="paper-list">
+<!-- <ul class="paper-list">
   <!-- Paper 5 -->
-  <li>
+  <!-- <li>
     <strong>Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline. CVPR 2025.</strong>
     <div class="paper-links">
         <a href="" class="paper-link">📄 Paper</a> | 
         <a href="" class="paper-link">💻 Code</a>
     </div>
     <div><i>Yuzhi Huang, Chenxin Li, Haitao Zhang, Zixu Lin, <strong>Yunlong Lin</strong>, Hengyu Liu, Wuyang Li, Xinyu Liu, Jiechao Gao, Yue Huang, Xinghao Ding, Yixuan Yuan.</i></div>
-  </li>
+  </li> -->
 
   <!-- Paper 6 -->
-  <li>
+  <!-- <li>
     <strong>Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint. ECCV 2024.</strong>
     <div class="paper-links">
         <a href="" class="paper-link">📄 Paper</a> | 
         <a href="" class="paper-link">💻 Code</a>
     </div>
     <div><i>Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, <strong>Yunlong Lin</strong>, Lei Zhu</i></div>
-  </li>
+  </li> -->
 
   <!-- Paper 7 -->
-  <li>
+  <!-- <li>
     <strong>Fusion2Void: Unsupervised Multi-focus Image Fusion Based on Image Inpainting. TCSVT 2024.</strong>
     <div class="paper-links">
         <a href="" class="paper-link">📄 Paper</a> | 
         <a href="" class="paper-link">💻 Code</a>
     </div>
     <div><i>Huangxing Lin, <strong>Yunlong Lin</strong>, Jingyuan Xia, Linyu Fan, Feifei Li, Yingying Wang, Xinghao Ding</i></div>
-  </li>
+  </li> -->
 
   <!-- Paper 8 -->
-  <li>
+  <!-- <li>
     <strong>Domain-irrelevant Feature Learning for Generalizable Pan-sharpening. ACMMM 2023.</strong>
     <div class="paper-links">
         <a href="" class="paper-link">📄 Paper</a> | 
         <a href="" class="paper-link">💻 Code</a>
     </div>
     <div><i><strong>Yunlong Lin</strong>, Zhenqi Fu, Ge Meng, Yingying Wang, Yuhang Dong, Linyu Fan, Hedeng Yu, Xinghao Ding</i></div>
-  </li>
-</ul>
+  </li> -->
+<!-- </ul> -->
 
-<div class="section-heading"><span class="section-icon">🎖</span> Honors and Awards</div>
+<!-- <div class="section-heading"><span class="section-icon">🎖</span> Honors and Awards</div>
 <ul class="award-list">
   <li>NTIRE 2025 challenge on day and night raindrop removal for dual-focused images, third place.</li>
   <li>NTIRE 2025 Low Light Image Enhancement Challenge, sixth place.</li>
@@ -279,13 +279,13 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
   <li>Second Price of Mathematical Contest In Modeling, 2021</li>
   <li>First Price of Mathorcup Mathematical Contest in Modeling, 2021</li>
   <li>First Price of Mathorcup Mathematical Contest in Modeling, 2022</li>
-</ul>
+</ul> -->
 
-<div class="section-heading"><span class="section-icon">📖</span> Educations</div>
+<!-- <div class="section-heading"><span class="section-icon">📖</span> Educations</div>
 <ul class="education-list">
   <li>Sep'2023-Jul'2026: Master Student, Xiamen University</li>
   <li>Sep'2019-Jul'2023: B.Eng (Telecommunication Engineering), Jimei University, Xiamen</li>
-</ul>
+</ul> -->
 
 <div class="section-heading"><span class="section-icon">💼</span> Experience</div>
 <ul class="experience-list">
@@ -295,10 +295,10 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
 </ul>
 
 
-<div class="section-heading"><span class="section-icon">💬</span> Academic Service</div>
+<!-- <div class="section-heading"><span class="section-icon">💬</span> Academic Service</div>
 <ul class="service-list">
   <li>Conference Reviewer: ACMMM 2024/2025, NeurIPS 2024/2025, ICLR 2025, CVPR 2025, ICCV 2025, ICML 2025.</li>
-</ul>
+</ul> -->
 </div>
 
 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
@@ -666,4 +666,4 @@ a[href]:after {
 }
 </style>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jacK9ggqHSefN4z3yvCMPbr34roVzQhT1qc6eb2yeTA&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jacK9ggqHSefN4z3yvCMPbr34roVzQhT1qc6eb2yeTA&cl=ffffff&w=a"></script> -->

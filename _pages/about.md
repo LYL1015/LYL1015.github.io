@@ -103,17 +103,15 @@ I am actively seeking collaborations and currently looking for <span style="colo
 
 
 <div class="section-heading"><span class="section-icon">🔬</span> Highlight Research</div>
-<!-- Paper 0 -->
-<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/jarvisart.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2025</div><img src='images/papers/jarvisevo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/pdf/2511.23002" class="paper-title">JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization</a>
+
 **Yunlong Lin\***, Linqing Wang*, Kunjie Lin*, Zixu Lin*, Kaixiong Gong, Wenbo Li, Bin Lin, Zhenxi Li, Shiyi Zhang, Yuyang Peng, Wenxun Dai, Xinghao Ding3♣, Chunyu Wang†, Qinglin Lu†
+
 <a href="https://arxiv.org/pdf/2511.23002" class="paper-link">📄 PDF</a> | 
 <a href="https://jarvisevo.vercel.app/" class="paper-link">🌐 Project</a> | 
 <a href="https://huggingface.co/papers/2511.23002" class="paper-link">🤗 HF Paper</a> | 
@@ -121,6 +119,9 @@ I am actively seeking collaborations and currently looking for <span style="colo
 </div>
 </div>
 
+<!-- Paper 0 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/jarvisart.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 <a href="" class="paper-title">JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent</a>
 

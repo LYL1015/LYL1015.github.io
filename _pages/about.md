@@ -96,15 +96,9 @@ I am actively seeking collaborations and currently looking for <span style="colo
 
 <div class="section-heading"><span class="section-icon">🔥</span> News</div>
 <ul>
-  <li>Five paper accepted by NeurIPS'25! (4 poster and 1 oral)</li>
-  <li>One paper accepted by ICCV'25!</li>
-  <li>Three papers accepted by CVPR'25!</li>
-  <li>Four papers accepted by AAAI'25 (2 oral)!</li>
-  <li>One paper accepted by ECCV'24!</li>
-  <li>Two paper accepted by TGRS'25!</li>
-  <li>Two paper accepted by TCSVT'24!</li>
-  <li>Two paper accepted by TGRS'24!</li>
-  <li>Three papers accepted by ACMMM'23 (1 oral)!</li>
+  <li>Our <strong>JarvisEvo</strong>: Towards Self-Evolution—the first intelligent photo retouching Agent integrating "Edit-Evaluate-Reflect" has been released! We're honored that our work coincides with  (<a href="https://x.com/Adobe/status/1998843861146177659">OpenAI x Adobe's new feature!</a>)</li>
+
+  <li>Our <strong>JarvisArt</strong>: The first intelligent photo retouching agent seamlessly integrated with Adobe Lightroom has been accepted by <strong>NeurIPS 2025</strong>! The code and benchmark are now fully open-sourced!</li>
 </ul>
 
 
@@ -112,6 +106,21 @@ I am actively seeking collaborations and currently looking for <span style="colo
 <!-- Paper 0 -->
 <div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/jarvisart.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
+<!-- Paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/jarvisevo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/pdf/2511.23002" class="paper-title">JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization</a>
+**Yunlong Lin\***, Linqing Wang*, Kunjie Lin*, Zixu Lin*, Kaixiong Gong, Wenbo Li, Bin Lin, Zhenxi Li, Shiyi Zhang, Yuyang Peng, Wenxun Dai, Xinghao Ding3♣, Chunyu Wang†, Qinglin Lu†
+<a href="https://arxiv.org/pdf/2511.23002" class="paper-link">📄 PDF</a> | 
+<a href="https://jarvisevo.vercel.app/" class="paper-link">🌐 Project</a> | 
+<a href="https://huggingface.co/papers/2511.23002" class="paper-link">🤗 HF Paper</a> | 
+<a href="https://github.com/LYL1015/JarvisEvo" class="paper-link">💻 Code <img src="https://img.shields.io/github/stars/LYL1015/JarvisEvo?style=social" alt="GitHub Stars"></a>
+</div>
+</div>
+
 
 <a href="" class="paper-title">JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent</a>
 
@@ -127,7 +136,7 @@ I am actively seeking collaborations and currently looking for <span style="colo
 </div>
 </div>
 
-<!-- Paper 1 -->
+<!-- Paper 2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><video src='images/papers/jarvisir.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
 <div class='paper-box-text' markdown="1">
 

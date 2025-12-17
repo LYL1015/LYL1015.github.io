@@ -94,11 +94,19 @@ I am actively seeking collaborations and currently looking for <span style="colo
   <li><strong>Email</strong>: linyl@stu.xmu.edu.cn</li>
 </ul>
 
+
 <div class="section-heading"><span class="section-icon">🔥</span> News</div>
 <ul>
   <li>Our <strong>JarvisEvo</strong>: Towards Self-Evolution—the first intelligent photo retouching Agent integrating "Edit-Evaluate-Reflect" has been released! We're honored that our work coincides with  (<a href="https://x.com/Adobe/status/1998843861146177659">OpenAI x Adobe's new feature!</a>)</li>
 
   <li>Our <strong>JarvisArt</strong>: The first intelligent photo retouching agent seamlessly integrated with Adobe Lightroom has been accepted by <strong>NeurIPS 2025</strong>! The code and benchmark are now fully open-sourced!</li>
+</ul>
+
+<div class="section-heading"><span class="section-icon">💼</span> Experience</div>
+<ul class="experience-list">
+    <li>
+        Jun'2025 - Present: Qingyun Intern, Tencent Hunyuan
+    </li>
 </ul>
 
 
@@ -287,12 +295,6 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
   <li>Sep'2019-Jul'2023: B.Eng (Telecommunication Engineering), Jimei University, Xiamen</li>
 </ul> -->
 
-<div class="section-heading"><span class="section-icon">💼</span> Experience</div>
-<ul class="experience-list">
-    <li>
-        Jun'2025 - Present: Qingyun Intern, Tencent Hunyuan
-    </li>
-</ul>
 
 
 <!-- <div class="section-heading"><span class="section-icon">💬</span> Academic Service</div>

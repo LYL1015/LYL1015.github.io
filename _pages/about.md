@@ -105,7 +105,7 @@ I am actively seeking collaborations and currently looking for <span style="colo
 <div class="section-heading"><span class="section-icon">🔬</span> Highlight Research</div>
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">Technical Report 2025</div><img src='images/papers/jarvisevo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">Technical Report 2025</div><img src='images/papers/jarvisevo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/pdf/2511.23002" class="paper-title">JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization</a>
@@ -120,7 +120,7 @@ I am actively seeking collaborations and currently looking for <span style="colo
 </div>
 
 <!-- Paper 0 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">NeurIPS 2025</div><img src='images/papers/jarvisart.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">NeurIPS 2025</div><img src='images/papers/jarvisart.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="" class="paper-title">JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent</a>
@@ -138,7 +138,7 @@ I am actively seeking collaborations and currently looking for <span style="colo
 </div>
 
 <!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">CVPR 2025</div><video src='images/papers/jarvisir.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">CVPR 2025</div><video src='images/papers/jarvisir.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="" class="paper-title">JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration</a>
@@ -151,7 +151,6 @@ I am actively seeking collaborations and currently looking for <span style="colo
 <a href="https://github.com/LYL1015/JarvisIR" class="paper-link">💻 Code <img src="https://img.shields.io/github/stars/LYL1015/JarvisIR?style=social" alt="GitHub Stars"></a> 
 </div>
 </div>
-
 
 <!-- Paper 2.5 -->
 <div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">NeurIPS 2025</div><video src='images/papers/dynamicverse.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
@@ -180,6 +179,7 @@ Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong S
 <a href="https://www.youtube.com/watch?v=92wMU4D7qx0" class="paper-link">📹 Demo Video</a> 
 </div>
 </div>
+
 
 
 

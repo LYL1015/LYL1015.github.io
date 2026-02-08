@@ -105,7 +105,10 @@ I am actively seeking collaborations and currently looking for <span style="colo
 <div class="section-heading"><span class="section-icon">💼</span> Experience</div>
 <ul class="experience-list">
     <li>
-        Jun'2025 - Present: Qingyun Intern, Tencent Hunyuan
+        Jun'2025 - Dec'2025: Qingyun Intern, Tencent Hunyuan
+    </li>
+    <li>
+        Jan'2026 - Present: ByteDance Seed
     </li>
 </ul>
 

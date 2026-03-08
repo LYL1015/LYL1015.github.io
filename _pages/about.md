@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="section-heading"><span class="section-icon">🔬</span> Highlight Research</div>
 
 <!-- Paper 1 -->
-<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">Technical Report 2025</div><img src='images/papers/jarvisevo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">CVPR 2026 (Tencent HY)</div><img src='images/papers/jarvisevo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/pdf/2511.23002" class="paper-title">JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization</a>

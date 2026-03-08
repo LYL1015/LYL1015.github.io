@@ -59,34 +59,25 @@ document.addEventListener('DOMContentLoaded', function() {
     <div class="research-item">
         <div class="research-icon">🧠</div>
         <div class="research-content">
-            <h3>Multimodal learning</h3>
-            <p>Vision and language, Visual reasoning, Generalist models</p>
+            <h3>LLM Post-Training</h3>
+            <p>Data construction, Agentic RL</p>
         </div>
     </div>
     <div class="research-item">
         <div class="research-icon">🤖</div>
         <div class="research-content">
-            <h3>AI Agents</h3>
-            <p>Planning and Decision-Making, Reinforcement learning</p>
+            <h3>Interactive Agents</h3>
+            <p>Multi-turn environment interaction, planning and action</p>
         </div>
     </div>
     <div class="research-item">
-        <div class="research-icon">🔍</div>
+        <div class="research-icon">🛠️</div>
         <div class="research-content">
-            <h3>Inverse Problems</h3>
-            <p>Real-world degradation restoration, Generative priors</p>
-        </div>
-    </div>
-    <div class="research-item">
-        <div class="research-icon">🌐</div>
-        <div class="research-content">
-            <h3>Spatial Intelligence</h3>
-            <p>3D Environment Perception, LLM-based Spatial Reasoning, Agent-driven Decision-making and Action</p>
+            <h3>Multimodal Reasoning & Tool Use</h3>
+            <p>Multimodal reasoning, tool-augmented agents</p>
         </div>
     </div>
 </div>
-
-I am actively seeking collaborations and currently looking for <span style="color:rgb(232, 96, 96)"><strong>26 fall PhD positions</strong></span>! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems. 
 
 <div class="section-heading"><span class="section-icon">📱</span> Contact</div>
 <ul>
@@ -97,6 +88,8 @@ I am actively seeking collaborations and currently looking for <span style="colo
 
 <div class="section-heading"><span class="section-icon">🔥</span> News</div>
 <ul>
+  <li>Our <strong>JarvisEvo</strong> has been accepted by <strong>CVPR 2026</strong>!</li>
+
   <li>Our <strong>JarvisEvo</strong>: Towards Self-Evolution—the first intelligent photo retouching Agent integrating "Edit-Evaluate-Reflect" has been released! We're honored that our work coincides with  (<a href="https://x.com/Adobe/status/1998843861146177659">OpenAI x Adobe's new feature!</a>)</li>
 
   <li>Our <strong>JarvisArt</strong>: The first intelligent photo retouching agent seamlessly integrated with Adobe Lightroom has been accepted by <strong>NeurIPS 2025</strong>! The code and benchmark are now fully open-sourced!</li>

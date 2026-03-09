@@ -108,6 +108,19 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <div class="section-heading"><span class="section-icon">🔬</span> Highlight Research</div>
 
+<!-- Project 0 -->
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">Open-Source Project</div><img src='images/papers/jarvisx-cowork.png' alt="JarvisX-Cowork demo" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://github.com/LYL1015/JarvisX-Cowork" class="paper-title">JarvisX-Cowork: A Personal AI Creative Assistant for End-to-End Creative Workflows</a>
+
+An open-source creative assistant that supports end-to-end workflows from web reference search to image generation, refinement, video creation, and polished demos, decks, or docs.
+
+<a href="https://github.com/LYL1015/JarvisX-Cowork" class="paper-link">💻 GitHub <img src="https://img.shields.io/github/stars/LYL1015/JarvisX-Cowork?style=social" alt="GitHub Stars"></a> |
+<a href="https://youtu.be/SiNsTmGbWlo" class="paper-link">🎬 Demo Video</a>
+</div>
+</div>
+
 <!-- Paper 1 -->
 <div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">CVPR 2026 (Tencent HY)</div><img src='images/papers/jarvisevo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

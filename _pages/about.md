@@ -20,7 +20,7 @@ redirect_from:
 <div id="particles-js"></div>
 
 <div class="wrapper">
- Welcome to my academic homepage. I am <strong>Yunlong Lin</strong>, a Master student at Xiamen University (XMU) @<a href="https://xmu-smartdsp.github.io/">SmartDSP</a> advised by <a href="https://scholar.google.com.hk/citations?user=k5hVBfMAAAAJ&hl=zh-CN">Prof. Xinghao Ding</a>. My key research areas and methodologies include:
+ Welcome to my academic homepage. I am <strong>Yunlong Lin</strong>, a Master student at Xiamen University (XMU) @<a href="https://xmu-smartdsp.github.io/">SmartDSP</a> advised by <a href="https://scholar.google.com.hk/citations?user=k5hVBfMAAAAJ&hl=zh-CN">Prof. Xinghao Ding</a>. I previously interned at <a href="https://hunyuan.tencent.com/">Tencent Hunyuan (Tencent HY)</a> and <a href="https://seed.bytedance.com/en/">ByteDance Seed</a>. My key research areas and methodologies include:
 
 <!-- <div id="motto" class="typed-motto"></div> -->
 

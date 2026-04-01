@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 });
 </script> -->
-
+<!-- 
 <div class="research-areas">
     <div class="research-item">
         <div class="research-icon">🧠</div>
@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <p>Multimodal reasoning, tool-augmented agents</p>
         </div>
     </div>
-</div>
+</div> -->
 
 <div class="section-heading"><span class="section-icon">📌</span> Research Highlights</div>
 <div class="research-highlights">

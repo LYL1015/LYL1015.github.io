@@ -121,6 +121,35 @@ An open-source creative assistant that supports end-to-end workflows from web re
 </div>
 </div>
 
+<!-- Paper 0.5 -->
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">Preprint 2026</div><img src='images/papers/unify-agent-2603.29620.png' alt="Unify-Agent preview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2603.29620" class="paper-title">Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis</a>
+
+Shuang Chen, Quanxin Shou, Hangting Chen, Yucheng Zhou, Kaituo Feng, Wenbo Hu, Yi-Fan Zhang, **Yunlong Lin**, Wenxuan Huang, Mingyang Song, Dasen Dai, Bolin Jiang, Manyuan Zhang, Shi-Xue Zhang, Zhengkai Jiang, Lucas Wang, Zhao Zhong, Yu Cheng, Nanyun Peng
+
+<a href="https://arxiv.org/pdf/2603.29620" class="paper-link">📄 PDF</a> | 
+<a href="https://arxiv.org/abs/2603.29620" class="paper-link">🧾 arXiv</a> | 
+<a href="https://github.com/shawn0728/Unify-Agent" class="paper-link">💻 Code</a>
+</div>
+</div>
+
+<!-- Paper 0.6 -->
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">Preprint 2026</div><img src='images/papers/gen-searcher-2603.28767.png' alt="Gen-Searcher preview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2603.28767" class="paper-title">Gen-Searcher: Reinforcing Agentic Search for Image Generation</a>
+
+Kaituo Feng, Manyuan Zhang, Shuang Chen, **Yunlong Lin**, Kaixuan Fan, Yilei Jiang, Hongyu Li, Dian Zheng, Chenyang Wang, Xiangyu Yue
+
+<a href="https://arxiv.org/pdf/2603.28767" class="paper-link">📄 PDF</a> | 
+<a href="https://arxiv.org/abs/2603.28767" class="paper-link">🧾 arXiv</a> | 
+<a href="https://gen-searcher.vercel.app" class="paper-link">🌐 Project</a> | 
+<a href="https://github.com/tulerfeng/Gen-Searcher" class="paper-link">💻 Code</a>
+</div>
+</div>
+
 <!-- Paper 1 -->
 <div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">CVPR 2026 (Tencent HY)</div><img src='images/papers/jarvisevo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

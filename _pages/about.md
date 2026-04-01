@@ -453,6 +453,11 @@ document.addEventListener('DOMContentLoaded', () => {
     margin: 20px 0;
 }
 
+/* Temporarily mask the top research cards section */
+.research-areas {
+    display: none !important;
+}
+
 .research-item {
     background: white;
     padding: 20px;

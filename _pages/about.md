@@ -79,6 +79,17 @@ document.addEventListener('DOMContentLoaded', function() {
     </div>
 </div>
 
+<div class="section-heading"><span class="section-icon">📌</span> Research Highlights</div>
+<div class="research-highlights">
+  <p>My recent research focuses on <strong>VLM/LLM/Agent systems</strong> for visual creation and perception. A central theme is improving multimodal agents with stronger post-training signals, tighter plan-act-reflect loops, and scalable reward design.</p>
+  <ul>
+    <li><strong>Agentic VLM/LLM for end-to-end workflows:</strong> build multimodal agents that can search, reason, call tools, and execute complete creative tasks.</li>
+    <li><strong>Reinforcement learning for multimodal decision making:</strong> optimize search and editing trajectories with evaluator feedback, self-reflection, and policy-level improvements.</li>
+    <li><strong>Reliable multimodal perception and generation:</strong> connect restoration, 4D understanding, and synthesis so models perform better in real-world settings, not only on static metrics.</li>
+  </ul>
+  <p>✉️ Welcome to contact me for discussions and collaborations on VLM/LLM/Agent and reinforcement learning research.</p>
+</div>
+
 <div class="section-heading"><span class="section-icon">📱</span> Contact</div>
 <ul>
   <li><strong>WeChat</strong>: lyl20136148</li>
@@ -115,6 +126,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="https://github.com/LYL1015/JarvisX-Cowork" class="paper-title">JarvisX-Cowork: A Personal AI Creative Assistant for End-to-End Creative Workflows</a>
 
 An open-source creative assistant that supports end-to-end workflows from web reference search to image generation, refinement, video creation, and polished demos, decks, or docs.
+<p><strong>Insight:</strong> Treating creative production as a unified agent workflow is more scalable than isolated tools. A single planner with shared memory and tool interfaces significantly reduces context switching and improves final output consistency.</p>
 
 <a href="https://github.com/LYL1015/JarvisX-Cowork" class="paper-link">💻 GitHub <img src="https://img.shields.io/github/stars/LYL1015/JarvisX-Cowork?style=social" alt="GitHub Stars"></a> |
 <a href="https://youtu.be/SiNsTmGbWlo" class="paper-link">🎬 Demo Video</a>
@@ -128,6 +140,7 @@ An open-source creative assistant that supports end-to-end workflows from web re
 <a href="https://arxiv.org/abs/2603.29620" class="paper-title">Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis</a>
 
 Shuang Chen, Quanxin Shou, Hangting Chen, Yucheng Zhou, Kaituo Feng, Wenbo Hu, Yi-Fan Zhang, **Yunlong Lin**, Wenxuan Huang, Mingyang Song, Dasen Dai, Bolin Jiang, Manyuan Zhang, Shi-Xue Zhang, Zhengkai Jiang, Lucas Wang, Zhao Zhong, Yu Cheng, Nanyun Peng
+<p><strong>Insight:</strong> Image synthesis quality improves when generation is grounded in an explicit world model rather than prompt-only decoding. Unifying perception, planning, and generation inside one agent reduces mismatch between intent and rendered scenes.</p>
 
 <a href="https://arxiv.org/pdf/2603.29620" class="paper-link">📄 PDF</a> | 
 <a href="https://arxiv.org/abs/2603.29620" class="paper-link">🧾 arXiv</a> | 
@@ -142,6 +155,7 @@ Shuang Chen, Quanxin Shou, Hangting Chen, Yucheng Zhou, Kaituo Feng, Wenbo Hu, Y
 <a href="https://arxiv.org/abs/2603.28767" class="paper-title">Gen-Searcher: Reinforcing Agentic Search for Image Generation</a>
 
 Kaituo Feng, Manyuan Zhang, Shuang Chen, **Yunlong Lin**, Kaixuan Fan, Yilei Jiang, Hongyu Li, Dian Zheng, Chenyang Wang, Xiangyu Yue
+<p><strong>Insight:</strong> Better images come from better search trajectories before generation. Reinforcement learning over agentic search decisions gives stronger global composition and semantic faithfulness than one-shot prompt tuning.</p>
 
 <a href="https://arxiv.org/pdf/2603.28767" class="paper-link">📄 PDF</a> | 
 <a href="https://arxiv.org/abs/2603.28767" class="paper-link">🧾 arXiv</a> | 
@@ -157,6 +171,7 @@ Kaituo Feng, Manyuan Zhang, Shuang Chen, **Yunlong Lin**, Kaixuan Fan, Yilei Jia
 <a href="https://arxiv.org/pdf/2511.23002" class="paper-title">JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization</a>
 
 **Yunlong Lin\***, Linqing Wang*, Kunjie Lin*, Zixu Lin*, Kaixiong Gong, Wenbo Li, Bin Lin, Zhenxi Li, Shiyi Zhang, Yuyang Peng, Wenxun Dai, Xinghao Ding3♣, Chunyu Wang†, Qinglin Lu†
+<p><strong>Insight:</strong> A self-evolving loop between editor and evaluator provides stable long-horizon improvement for image editing agents. Reward shaping plus reflection-driven updates enables continual capability gains without handcrafting new pipelines for each task.</p>
 
 <a href="https://arxiv.org/pdf/2511.23002" class="paper-link">📄 PDF</a> | 
 <a href="https://jarvisevo.vercel.app/" class="paper-link">🌐 Project</a> | 
@@ -172,6 +187,7 @@ Kaituo Feng, Manyuan Zhang, Shuang Chen, **Yunlong Lin**, Kaixuan Fan, Yilei Jia
 <a href="" class="paper-title">JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent</a>
 
 **Yunlong Lin\***, Zixu Lin\*, Kunjie Lin\*, Jinbin Bai, Panwang Pan, Chenxin Li, Haoyu Chen, Zhongdao Wang, Xinghao Ding†, Wenbo Li<sup>♣️</sup>, Shuicheng Yan†
+<p><strong>Insight:</strong> High-quality artistic retouching is easier when the agent decomposes editing into interpretable subgoals and tool calls. This decomposition improves controllability for users while preserving strong aesthetic quality.</p>
 
 <a href="https://arxiv.org/pdf/2506.17612" class="paper-link">📄 PDF</a> | 
 <a href="https://jarvisart.vercel.app/" class="paper-link">🌐 Project</a> | 
@@ -190,6 +206,7 @@ Kaituo Feng, Manyuan Zhang, Shuang Chen, **Yunlong Lin**, Kaixuan Fan, Yilei Jia
 <a href="" class="paper-title">JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration</a>
 
 **Yunlong Lin\***, Zixu Lin\*, Haoyu Chen\*, Panwang Pan\*, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding
+<p><strong>Insight:</strong> Restoration should be optimized for downstream driving perception, not just pixel-level scores. Injecting agent-style decision signals into enhancement leads to more robust perception gains under adverse conditions.</p>
 
 <a href="./papers/CVPR2025_JarvisIR.pdf" class="paper-link">📄 PDF</a> | 
 <a href="https://cvpr2025-jarvisir.github.io/" class="paper-link">🌐 Project</a> | 
@@ -205,6 +222,7 @@ Kaituo Feng, Manyuan Zhang, Shuang Chen, **Yunlong Lin**, Kaixuan Fan, Yilei Jia
 <a href="" class="paper-title">DynamicVerse: Physically-Aware Multimodal Modeling for Dynamic 4D Worlds</a>
 
 Kairun Wen, Yuzhi Huang, Runyu Chen, Hui Zheng, **Yunlong Lin**, Panwang Pan, Chenxin Li, Wenyan Cong, Jian Zhang, Junbin Lu, Chenguo Lin, Dilin Wang, Zhicheng Yan, Hongyu Xu, Justin Theiss, Yue Huang, Xinghao Ding, Rakesh Ranjan, Zhiwen Fan
+<p><strong>Insight:</strong> Physical priors are critical for temporally consistent 4D world modeling. Combining physically-aware constraints with multimodal context improves both realism and controllability in dynamic scene generation.</p>
 
 <a href="" class="paper-link">📄 PDF</a> | 
 <a href="https://dynamic-verse.github.io/" class="paper-link">🌐 Project</a>
@@ -218,6 +236,7 @@ Kairun Wen, Yuzhi Huang, Runyu Chen, Hui Zheng, **Yunlong Lin**, Panwang Pan, Ch
 <a href="" class="paper-title">PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework</a>
 
 Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong Shao, **Yunlong Lin**, Song Fei, Zhaohu Xing, Yeying Jin, Junfeng Luo, Xiaoming Wei, Lei Zhu
+<p><strong>Insight:</strong> A unified framework can jointly handle layout planning and visual rendering instead of treating them as separate stages. This coupling yields better text-image harmony and more stable poster aesthetics.</p>
 
 <a href="https://arxiv.org/abs/2506.10741" class="paper-link">📄 PDF</a> | 
 <a href="https://ephemeral182.github.io/PosterCraft/" class="paper-link">🌐 Project</a> | 
@@ -239,6 +258,7 @@ Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong S
 <a href="https://arxiv.org/pdf/2407.14900" class="paper-title">AGLLDiff: Guiding Diffusion Models Towards Unsupervised Training-free Real-world Low-light Image Enhancement</a>
 
 **Yunlong Lin\***, Tian Ye\*, Sixiang Chen\*, Zhenqi Fu, Yingying Wang, Wenhao Chai, Zhaohu Xing, Lei Zhu, Xinghao Ding.
+<p><strong>Insight:</strong> Training-free enhancement can still be practical when diffusion models are guided by carefully designed global and local luminance priors. This design avoids expensive retraining while maintaining real-world robustness.</p>
 
 <a href="https://arxiv.org/pdf/2407.14900" class="paper-link">📄 PDF</a> | 
 <a href="https://aglldiff.github.io" class="paper-link">🌐 Project</a> | 
@@ -255,6 +275,7 @@ Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong S
 <a href="https://arxiv.org/pdf/2409.18899" class="paper-title">Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors</a>
 
 **Yunlong Lin\***, Zhenqi Fu\*, Kairun Wen, Tian Ye, Sixiang Chen, Ge Meng, Yingying Wang, Yue Huang, Xiaotong Tu, Xinghao Ding.
+<p><strong>Insight:</strong> Lightweight LUT-based enhancement and diffusion priors are complementary rather than conflicting. Their combination provides a strong efficiency-quality trade-off for unsupervised low-light restoration.</p>
 
 <a href="https://arxiv.org/pdf/2409.18899" class="paper-link">📄 PDF</a> | 
 <a href="https://dplut.github.io/" class="paper-link">🌐 Project</a>
@@ -268,6 +289,7 @@ Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong S
 <a href="" class="paper-title">SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization</a>
 
 Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaohu Xing, Hongtao Wu, Weiming Wang, Lei Zhu.
+<p><strong>Insight:</strong> MLLM-driven feedback is effective for coordinating multiple restoration experts in difficult weather conditions. Multi-model feedback optimization improves desnowing quality and reduces brittle failure cases.</p>
 
 <a href="" class="paper-link">📄 PDF</a> | 
 <a href="" class="paper-link">🌐 Project</a>
@@ -668,6 +690,29 @@ a[href]:after {
 
 .section-icon {
     margin-right: 0.5em;
+}
+
+.research-highlights {
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 12px;
+    padding: 20px 24px;
+    margin: 15px 0 25px 0;
+    border-left: 4px solid #1772d0;
+    box-shadow: 0 4px 20px rgba(23, 114, 208, 0.08);
+}
+
+.research-highlights p {
+    margin: 0 0 12px 0;
+    line-height: 1.65;
+}
+
+.research-highlights ul {
+    margin: 0 0 12px 1.1em;
+}
+
+.research-highlights li {
+    margin-bottom: 0.6em;
+    line-height: 1.6;
 }
 
 /* List styling */

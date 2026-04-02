@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </div>
 </div> -->
 
-<div class="section-heading"><span class="section-icon">📌</span> Research Highlights</div>
+<div class="section-heading section-heading-main"><span class="section-icon">📌</span> Research Highlights</div>
 <div class="research-highlights">
   <p>My recent research focuses on <strong>VLM/LLM/Agent systems</strong> for visual creation and perception. A central theme is improving multimodal agents with stronger post-training signals, tighter plan-act-reflect loops, and scalable reward design.</p>
   <ul>
@@ -90,34 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
   <p>✉️ Welcome to contact me for discussions and collaborations on VLM/LLM/Agent and reinforcement learning research.</p>
 </div>
 
-<div class="section-heading"><span class="section-icon">📱</span> Contact</div>
-<ul>
-  <li><strong>WeChat</strong>: lyl20136148</li>
-  <li><strong>Email</strong>: linyl@stu.xmu.edu.cn</li>
-</ul>
-
-
-<div class="section-heading"><span class="section-icon">🔥</span> News</div>
-<ul>
-  <li>Our <strong>JarvisEvo</strong> has been accepted by <strong>CVPR 2026</strong>!</li>
-
-  <li>Our <strong>JarvisEvo</strong>: Towards Self-Evolution—the first intelligent photo retouching Agent integrating "Edit-Evaluate-Reflect" has been released! We're honored that our work coincides with  (<a href="https://x.com/Adobe/status/1998843861146177659">OpenAI x Adobe's new feature!</a>)</li>
-
-  <li>Our <strong>JarvisArt</strong>: The first intelligent photo retouching agent seamlessly integrated with Adobe Lightroom has been accepted by <strong>NeurIPS 2025</strong>! The code and benchmark are now fully open-sourced!</li>
-</ul>
-
-<div class="section-heading"><span class="section-icon">💼</span> Experience</div>
-<ul class="experience-list">
-    <li>
-        Jun'2025 - Dec'2025: Qingyun Intern, Tencent Hunyuan
-    </li>
-    <li>
-        Jan'2026 - Present: ByteDance Seed
-    </li>
-</ul>
-
-
-<div class="section-heading"><span class="section-icon">🔬</span> Highlight Research</div>
+<div class="section-heading section-heading-main"><span class="section-icon">🔬</span> Selected Research</div>
 
 <!-- Project 0 -->
 <div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">Open-Source Project</div><img src='images/papers/jarvisx-cowork.png' alt="JarvisX-Cowork demo" width="100%"></div></div>
@@ -248,7 +221,7 @@ Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong S
 
 
 
-<div class="section-heading"><span class="section-icon">📝</span> Publications</div>
+<div class="section-heading section-heading-subtle"><span class="section-icon">📝</span> Publications</div>
 
 
 <!-- Paper 2 -->
@@ -294,6 +267,31 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
 <a href="" class="paper-link">📄 PDF</a> | 
 <a href="" class="paper-link">🌐 Project</a>
 </div>
+</div>
+
+<div class="compact-info-grid">
+  <section class="meta-card">
+    <div class="section-heading section-heading-subtle"><span class="section-icon">📱</span> Contact</div>
+    <ul class="compact-list">
+      <li><strong>WeChat</strong>: lyl20136148</li>
+      <li><strong>Email</strong>: linyl@stu.xmu.edu.cn</li>
+    </ul>
+  </section>
+  <section class="meta-card">
+    <div class="section-heading section-heading-subtle"><span class="section-icon">🔥</span> News</div>
+    <ul class="compact-list">
+      <li>Our <strong>JarvisEvo</strong> has been accepted by <strong>CVPR 2026</strong>!</li>
+      <li>Our <strong>JarvisEvo</strong>: Towards Self-Evolution—the first intelligent photo retouching Agent integrating "Edit-Evaluate-Reflect" has been released! We're honored that our work coincides with (<a href="https://x.com/Adobe/status/1998843861146177659">OpenAI x Adobe's new feature!</a>)</li>
+      <li>Our <strong>JarvisArt</strong>: The first intelligent photo retouching agent seamlessly integrated with Adobe Lightroom has been accepted by <strong>NeurIPS 2025</strong>! The code and benchmark are now fully open-sourced!</li>
+    </ul>
+  </section>
+  <section class="meta-card">
+    <div class="section-heading section-heading-subtle"><span class="section-icon">💼</span> Experience</div>
+    <ul class="compact-list experience-list">
+      <li>Jun'2025 - Dec'2025: Qingyun Intern, Tencent Hunyuan</li>
+      <li>Jan'2026 - Present: ByteDance Seed</li>
+    </ul>
+  </section>
 </div>
 
 <!-- <ul class="paper-list">
@@ -369,10 +367,10 @@ document.addEventListener('DOMContentLoaded', () => {
     particlesJS('particles-js', {
         particles: {
             number: {
-                value: 80,
+                value: 42,
                 density: {
                     enable: true,
-                    value_area: 800
+                    value_area: 1000
                 }
             },
             color: {
@@ -382,23 +380,23 @@ document.addEventListener('DOMContentLoaded', () => {
                 type: 'circle'
             },
             opacity: {
-                value: 0.5,
+                value: 0.22,
                 random: false
             },
             size: {
-                value: 3,
+                value: 2.1,
                 random: true
             },
             line_linked: {
                 enable: true,
-                distance: 150,
+                distance: 180,
                 color: '#1772d0',
-                opacity: 0.4,
-                width: 1
+                opacity: 0.12,
+                width: 0.8
             },
             move: {
                 enable: true,
-                speed: 2,
+                speed: 0.9,
                 direction: 'none',
                 random: false,
                 straight: false,
@@ -410,11 +408,11 @@ document.addEventListener('DOMContentLoaded', () => {
             detect_on: 'canvas',
             events: {
                 onhover: {
-                    enable: true,
+                    enable: false,
                     mode: 'repulse'
                 },
                 onclick: {
-                    enable: true,
+                    enable: false,
                     mode: 'push'
                 },
                 resize: true
@@ -426,102 +424,251 @@ document.addEventListener('DOMContentLoaded', () => {
 </script>
 
 <style>
-.typed-motto {
-    font-style: italic;
-    font-size: 24px;
-    margin: 20px 0;
-    min-height: 36px;
-    background: -webkit-linear-gradient(left, #1772d0, #6c5ce7);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-family: 'Georgia', serif;
-    font-weight: 500;
-    text-align: center;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+:root {
+    --bg: #f4f6fb;
+    --bg-soft: #f9fbff;
+    --card: rgba(255, 255, 255, 0.9);
+    --surface: #f6f8fd;
+    --text: #1a2437;
+    --text-soft: #4b5b75;
+    --accent: #2b67ff;
+    --accent-strong: #1e4bc9;
+    --line: rgba(26, 36, 55, 0.12);
+    --line-strong: rgba(26, 36, 55, 0.24);
+    --shadow-xs: 0 1px 3px rgba(12, 23, 44, 0.05);
+    --shadow-sm: 0 10px 24px rgba(12, 23, 44, 0.06);
+    --shadow-md: 0 14px 30px rgba(12, 23, 44, 0.1);
+    --radius-md: 12px;
+    --radius-lg: 16px;
 }
 
-.typed-cursor {
-    color: #1772d0;
-    font-weight: bold;
+#particles-js {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    background:
+        radial-gradient(circle at 15% 18%, rgba(43, 103, 255, 0.08), transparent 40%),
+        radial-gradient(circle at 85% 12%, rgba(57, 171, 255, 0.06), transparent 42%),
+        linear-gradient(180deg, var(--bg-soft) 0%, var(--bg) 100%);
 }
 
-/* Basic styles */
-.research-areas {
-    background: #f8f9fa;
-    padding: 25px;
-    border-radius: 12px;
-    margin: 20px 0;
+.wrapper {
+    position: relative;
+    z-index: 1;
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 4px 2px 30px;
+    color: var(--text);
 }
 
-/* Temporarily mask the top research cards section */
+.wrapper > p:first-of-type {
+    font-size: 1.04rem;
+    line-height: 1.88;
+    color: var(--text-soft);
+    margin-bottom: 1.2rem;
+}
+
+.section-heading {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-top: 2rem;
+    margin-bottom: 0.9rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--line);
+    color: var(--text);
+    font-size: 1.18rem;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+}
+
+.section-heading-main {
+    margin-top: 2.2rem;
+    font-size: 1.26rem;
+}
+
+.section-heading-subtle {
+    margin-top: 1.2rem;
+    font-size: 1.06rem;
+    color: var(--text-soft);
+}
+
+.section-icon {
+    margin-right: 0;
+    font-size: 0.92em;
+    opacity: 0.75;
+}
+
 .research-areas {
     display: none !important;
 }
 
-.research-item {
-    background: white;
-    padding: 20px;
-    margin: 15px 0;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+.research-highlights {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-left: 4px solid var(--accent);
+    border-radius: var(--radius-lg);
+    padding: 18px 20px;
+    margin: 12px 0 24px;
+    box-shadow: var(--shadow-sm);
+}
+
+.research-highlights p,
+.research-highlights li {
+    color: var(--text-soft);
+    line-height: 1.72;
+}
+
+.research-highlights p {
+    margin-bottom: 10px;
+}
+
+.research-highlights ul {
+    margin: 0 0 10px 1.1em;
+    padding: 0;
+}
+
+.paper-box {
     display: flex;
     align-items: flex-start;
-    transition: all 0.3s ease;
-    transform-origin: center;
-    position: relative;
+    gap: 18px;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+    padding: 16px;
+    margin: 0 0 16px;
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
 
-/* Hover effects */
-.research-item:hover {
-    transform: scale(1.03);
-    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-    background: #fafafa;
+.paper-box:hover {
+    transform: translateY(-2px);
+    border-color: var(--line-strong);
+    box-shadow: var(--shadow-md);
 }
 
-.research-icon {
-    font-size: 24px;
-    margin-right: 15px;
-    transition: transform 0.3s ease;
+.paper-box-image {
+    flex: 0 0 35%;
+    max-width: 35%;
 }
 
-/* Icon animation effects */
-.research-item:hover .research-icon {
-    transform: scale(1.2) rotate(5deg);
-}
-
-.research-content {
+.paper-box-text {
     flex: 1;
+    min-width: 0;
+    color: var(--text-soft);
+    line-height: 1.62;
+    overflow-wrap: anywhere;
 }
 
-.research-content h3 {
-    margin: 0 0 10px 0;
-    font-size: 1.2em;
-    color: #333;
-    transition: color 0.3s ease;
+.paper-box-image img,
+.paper-box-image video {
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid var(--line);
 }
 
-/* Title color change effect */
-.research-item:hover .research-content h3 {
-    color: #1772d0;
+.paper-box .badge {
+    border-radius: 999px;
+    padding: 4px 10px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    box-shadow: none;
 }
 
-.research-content p {
+.paper-title {
+    font-weight: 700;
+    color: var(--text);
+    text-decoration: none !important;
+    border-bottom: none !important;
+}
+
+.paper-title:hover {
+    color: var(--accent);
+    text-decoration: none !important;
+}
+
+.paper-link {
+    color: var(--accent);
+    text-decoration: none !important;
+    border-bottom: none !important;
+    white-space: normal;
+}
+
+.paper-link:hover {
+    color: var(--accent-strong);
+    text-decoration: none !important;
+}
+
+.paper-box-text > p {
+    margin: 10px 0 12px;
+    padding: 10px 12px;
+    border-left: 3px solid rgba(43, 103, 255, 0.4);
+    border-radius: 8px;
+    background: var(--surface);
+    color: var(--text-soft);
+    line-height: 1.66;
+}
+
+.paper-box-text > p strong {
+    color: var(--text);
+    font-weight: 700;
+}
+
+.ongoing-research {
+    border-left: 3px solid #2f8e5d;
+    background: linear-gradient(to right, rgba(47, 142, 93, 0.05), rgba(255, 255, 255, 0.84));
+}
+
+.compact-info-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+    margin-top: 2rem;
+}
+
+.meta-card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+    padding: 14px 16px;
+    box-shadow: var(--shadow-xs);
+}
+
+.meta-card .section-heading {
+    margin: 0 0 8px;
+    padding-bottom: 7px;
+}
+
+.compact-list {
     margin: 0;
-    color: #666;
-    line-height: 1.5;
-    transition: color 0.3s ease;
+    padding-left: 1.1rem;
 }
 
-/* Text color change effect */
-.research-item:hover .research-content p {
-    color: #333;
+.compact-list li {
+    margin-bottom: 0.5rem !important;
+    color: var(--text-soft);
+    line-height: 1.6;
 }
 
-/* Page loading animation */
-@keyframes fadeInUp {
+.compact-list li:last-child {
+    margin-bottom: 0 !important;
+}
+
+.page__content p,
+.page__content li {
+    margin-bottom: 0.7em;
+}
+
+a[href]:after {
+    content: none !important;
+}
+
+@keyframes fadeUp {
     from {
         opacity: 0;
-        transform: translateY(20px);
+        transform: translateY(10px);
     }
     to {
         opacity: 1;
@@ -529,230 +676,60 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 }
 
-/* Add animation to main content blocks */
-.research-areas,
-.section-heading, .paper-box, ul {
-    animation: fadeInUp 0.8s ease-out forwards;
-    opacity: 0;
+.research-highlights,
+.paper-box,
+.compact-info-grid {
+    animation: fadeUp 0.45s ease-out both;
 }
 
-/* Set different animation delays for different sections */
-.section-heading { animation-delay: 0.2s; }
-.research-areas { animation-delay: 0.4s; }
-.paper-box:nth-child(1) { animation-delay: 0.5s; }
-.paper-box:nth-child(2) { animation-delay: 0.6s; }
-.paper-box:nth-child(3) { animation-delay: 0.7s; }
-.paper-box:nth-child(4) { animation-delay: 0.8s; }
-ul { animation-delay: 0.9s; }
-
-/* Particle background */
-#particles-js {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    background: linear-gradient(45deg, #f3f4f6 0%, #fff 100%);
+@media (max-width: 1024px) {
+    .wrapper {
+        max-width: 960px;
+    }
 }
 
-/* Ensure content is above particles */
-.wrapper {
-    position: relative;
-    z-index: 1;
+@media (max-width: 768px) {
+    .wrapper {
+        padding-bottom: 22px;
+    }
+
+    .section-heading {
+        font-size: 1.08rem;
+    }
+
+    .section-heading-main {
+        font-size: 1.15rem;
+    }
+
+    .paper-box {
+        flex-direction: column;
+        gap: 12px;
+        padding: 13px;
+    }
+
+    .paper-box-image {
+        max-width: 100%;
+        flex-basis: auto;
+    }
+
+    .paper-box-text > p {
+        padding: 9px 10px;
+    }
+
+    .compact-info-grid {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
 }
 
-/* Add glass effect to content */
-.research-areas,
-.paper-box {
-    background: rgba(255, 255, 255, 0.8);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    border-radius: 15px;
-    padding: 25px;
-    margin: 20px 0;
-    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
-}
-
-/* Add cool gradient border effect */
-.research-item::before {
-    content: '';
-    position: absolute;
-    top: -2px;
-    left: -2px;
-    right: -2px;
-    bottom: -2px;
-    background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59);
-    z-index: -1;
-    border-radius: 12px;
-    animation: borderGradient 4s ease infinite;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-}
-
-.research-item:hover::before {
-    opacity: 1;
-}
-
-@keyframes borderGradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-}
-
-/* Add neon light effect */
-.research-icon {
-    text-shadow: 0 0 10px rgba(23, 114, 208, 0.5);
-    animation: glowing 2s ease-in-out infinite;
-}
-
-@keyframes glowing {
-    0% { filter: drop-shadow(0 0 2px rgba(23, 114, 208, 0.5)); }
-    50% { filter: drop-shadow(0 0 8px rgba(23, 114, 208, 0.8)); }
-    100% { filter: drop-shadow(0 0 2px rgba(23, 114, 208, 0.5)); }
-}
-
-/* Optimize title animation effect */
-.research-content h3 {
-    background: linear-gradient(120deg, #1772d0, #6c5ce7, #1772d0);
-    background-size: 200% auto;
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradientText 3s linear infinite;
-}
-
-@keyframes gradientText {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-}
-
-/* Add hover effect for paper cards */
-.paper-box {
-    transition: all 0.3s ease;
-}
-
-.paper-box:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 15px 30px rgba(0,0,0,0.1);
-}
-
-/* Hide link URLs */
-a[href]:after {
-    content: none !important;
-}
-
-/* Paper styling */
-.paper-title {
-    font-weight: bold;
-    color: #333;
-    text-decoration: none !important;
-    border-bottom: none !important;
-}
-
-.paper-title:hover {
-    color: #1772d0;
-    text-decoration: none !important;
-}
-
-.paper-link {
-    color: #1772d0;
-    text-decoration: none !important;
-    border-bottom: none !important;
-}
-
-.paper-link:hover {
-    color: #6c5ce7;
-    text-decoration: none !important;
-}
-
-.paper-links {
-    margin: 5px 0;
-}
-
-.paper-list li {
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #f0f0f0;
-}
-
-.paper-list li:last-child {
-    border-bottom: none;
-}
-
-/* Section headings */
-.section-heading {
-    font-size: 1.5em;
-    font-weight: bold;
-    margin-top: 2em;
-    margin-bottom: 1em;
-    color: #333;
-    border-bottom: 2px solid #f0f0f0;
-    padding-bottom: 0.5em;
-}
-
-.section-icon {
-    margin-right: 0.5em;
-}
-
-.research-highlights {
-    background: rgba(255, 255, 255, 0.85);
-    border-radius: 12px;
-    padding: 20px 24px;
-    margin: 15px 0 25px 0;
-    border-left: 4px solid #1772d0;
-    box-shadow: 0 4px 20px rgba(23, 114, 208, 0.08);
-}
-
-.research-highlights p {
-    margin: 0 0 12px 0;
-    line-height: 1.65;
-}
-
-.research-highlights ul {
-    margin: 0 0 12px 1.1em;
-}
-
-.research-highlights li {
-    margin-bottom: 0.6em;
-    line-height: 1.6;
-}
-
-/* List styling */
-.award-list li,
-.education-list li,
-.service-list li {
-    margin-bottom: 0.5em;
-    position: relative;
-    padding-left: 1em;
-}
-
-.award-list li:before,
-.education-list li:before,
-.service-list li:before {
-    content: "•";
-    position: absolute;
-    left: 0;
-    color: #1772d0;
-}
-
-/* Ensure proper line breaks */
-.page__content p,
-.page__content li {
-    margin-bottom: 0.75em;
-}
-
-.ongoing-research {
-    border-left: 4px solid #4CAF50;
-    background: linear-gradient(to right, rgba(76, 175, 80, 0.1), rgba(255, 255, 255, 0));
-    transition: all 0.3s ease;
-}
-.ongoing-research:hover {
-    border-left: 4px solid #2E7D32;
-    box-shadow: 0 4px 20px rgba(76, 175, 80, 0.2);
-    transform: translateY(-5px);
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation: none !important;
+        transition: none !important;
+        scroll-behavior: auto !important;
+    }
 }
 </style>
 

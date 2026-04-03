@@ -117,6 +117,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <div class="section-heading section-heading-main"><span class="section-icon">🔬</span> Selected Research</div>
 
+<div class="selected-research-list">
+
 <!-- Project 0 -->
 <div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">Open-Source Project</div><img src='images/papers/jarvisx-cowork.png' alt="JarvisX-Cowork demo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -245,6 +247,8 @@ Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong S
 
 
 
+
+</div>
 
 <div class="section-heading section-heading-subtle"><span class="section-icon">📝</span> Publications</div>
 
@@ -566,6 +570,31 @@ document.addEventListener('DOMContentLoaded', () => {
     width: 100%;
     border-radius: 10px;
     border: 1px solid var(--line);
+}
+
+.selected-research-list .paper-box-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.selected-research-list .paper-box-image > div {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.selected-research-list .paper-box-image .badge {
+    align-self: flex-start;
+}
+
+.selected-research-list .paper-box-image img,
+.selected-research-list .paper-box-image video {
+    width: auto !important;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
 }
 
 .paper-box .badge {

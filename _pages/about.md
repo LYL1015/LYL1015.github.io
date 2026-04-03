@@ -90,6 +90,31 @@ document.addEventListener('DOMContentLoaded', function() {
   <p>✉️ Welcome to contact me for discussions and collaborations on VLM/LLM/Agent and reinforcement learning research.</p>
 </div>
 
+<div class="compact-info-grid">
+  <section class="meta-card">
+    <div class="section-heading section-heading-subtle"><span class="section-icon">📱</span> Contact</div>
+    <ul class="compact-list">
+      <li><strong>WeChat</strong>: lyl20136148</li>
+      <li><strong>Email</strong>: linyl@stu.xmu.edu.cn</li>
+    </ul>
+  </section>
+  <section class="meta-card">
+    <div class="section-heading section-heading-subtle"><span class="section-icon">🔥</span> News</div>
+    <ul class="compact-list">
+      <li>Our <strong>JarvisEvo</strong> has been accepted by <strong>CVPR 2026</strong>!</li>
+      <li>Our <strong>JarvisEvo</strong>: Towards Self-Evolution—the first intelligent photo retouching Agent integrating "Edit-Evaluate-Reflect" has been released! We're honored that our work coincides with (<a href="https://x.com/Adobe/status/1998843861146177659">OpenAI x Adobe's new feature!</a>)</li>
+      <li>Our <strong>JarvisArt</strong>: The first intelligent photo retouching agent seamlessly integrated with Adobe Lightroom has been accepted by <strong>NeurIPS 2025</strong>! The code and benchmark are now fully open-sourced!</li>
+    </ul>
+  </section>
+  <section class="meta-card">
+    <div class="section-heading section-heading-subtle"><span class="section-icon">💼</span> Experience</div>
+    <ul class="compact-list experience-list">
+      <li>Jun'2025 - Dec'2025: Qingyun Intern, Tencent Hunyuan</li>
+      <li>Jan'2026 - Present: ByteDance Seed</li>
+    </ul>
+  </section>
+</div>
+
 <div class="section-heading section-heading-main"><span class="section-icon">🔬</span> Selected Research</div>
 
 <!-- Project 0 -->
@@ -267,31 +292,6 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
 <a href="" class="paper-link">📄 PDF</a> | 
 <a href="" class="paper-link">🌐 Project</a>
 </div>
-</div>
-
-<div class="compact-info-grid">
-  <section class="meta-card">
-    <div class="section-heading section-heading-subtle"><span class="section-icon">📱</span> Contact</div>
-    <ul class="compact-list">
-      <li><strong>WeChat</strong>: lyl20136148</li>
-      <li><strong>Email</strong>: linyl@stu.xmu.edu.cn</li>
-    </ul>
-  </section>
-  <section class="meta-card">
-    <div class="section-heading section-heading-subtle"><span class="section-icon">🔥</span> News</div>
-    <ul class="compact-list">
-      <li>Our <strong>JarvisEvo</strong> has been accepted by <strong>CVPR 2026</strong>!</li>
-      <li>Our <strong>JarvisEvo</strong>: Towards Self-Evolution—the first intelligent photo retouching Agent integrating "Edit-Evaluate-Reflect" has been released! We're honored that our work coincides with (<a href="https://x.com/Adobe/status/1998843861146177659">OpenAI x Adobe's new feature!</a>)</li>
-      <li>Our <strong>JarvisArt</strong>: The first intelligent photo retouching agent seamlessly integrated with Adobe Lightroom has been accepted by <strong>NeurIPS 2025</strong>! The code and benchmark are now fully open-sourced!</li>
-    </ul>
-  </section>
-  <section class="meta-card">
-    <div class="section-heading section-heading-subtle"><span class="section-icon">💼</span> Experience</div>
-    <ul class="compact-list experience-list">
-      <li>Jun'2025 - Dec'2025: Qingyun Intern, Tencent Hunyuan</li>
-      <li>Jan'2026 - Present: ByteDance Seed</li>
-    </ul>
-  </section>
 </div>
 
 <!-- <ul class="paper-list">

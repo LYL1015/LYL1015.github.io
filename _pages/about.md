@@ -578,6 +578,10 @@ document.addEventListener('DOMContentLoaded', () => {
     justify-content: center;
 }
 
+.selected-research-list .paper-box {
+    align-items: center;
+}
+
 .selected-research-list .paper-box-image > div {
     width: 100%;
     display: flex;

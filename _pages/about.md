@@ -595,8 +595,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 .selected-research-list .paper-box-image img,
 .selected-research-list .paper-box-image video {
-    width: 92% !important;
-    max-width: 92%;
+    width: 100% !important;
+    max-width: 100%;
     height: auto;
     margin: 0 auto;
 }

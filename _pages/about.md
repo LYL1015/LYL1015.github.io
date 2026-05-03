@@ -839,8 +839,9 @@ a[href]:after { content: none !important; }
 .paper-box-image video {
     display: block;
     width: 100%;
-    aspect-ratio: 16 / 10;
-    object-fit: cover;
+    height: auto;
+    aspect-ratio: auto;
+    object-fit: contain;
     border-radius: 2px;
     border: 1px solid var(--rule);
     background: var(--paper);
@@ -1036,7 +1037,7 @@ a[href]:after { content: none !important; }
 
     .paper-box-image img,
     .paper-box-image video {
-        aspect-ratio: 16 / 9;
+        aspect-ratio: auto;
     }
 
     .compact-info-grid {

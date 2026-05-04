@@ -142,7 +142,7 @@ Shuang Chen, Quanxin Shou, Hangting Chen, Yucheng Zhou, Kaituo Feng, Wenbo Hu, Y
 
 <a href="https://arxiv.org/pdf/2603.29620" class="paper-link">📄 PDF</a> | 
 <a href="https://arxiv.org/abs/2603.29620" class="paper-link">🧾 arXiv</a> | 
-<a href="https://github.com/shawn0728/Unify-Agent" class="paper-link">💻 Code</a>
+<a href="https://github.com/shawn0728/Unify-Agent" class="paper-link">💻 Code <img src="https://img.shields.io/github/stars/shawn0728/Unify-Agent?style=social" alt="GitHub Stars"></a>
 </div>
 </div>
 
@@ -158,7 +158,7 @@ Kaituo Feng, Manyuan Zhang, Shuang Chen, **Yunlong Lin**, Kaixuan Fan, Yilei Jia
 <a href="https://arxiv.org/pdf/2603.28767" class="paper-link">📄 PDF</a> | 
 <a href="https://arxiv.org/abs/2603.28767" class="paper-link">🧾 arXiv</a> | 
 <a href="https://gen-searcher.vercel.app" class="paper-link">🌐 Project</a> | 
-<a href="https://github.com/tulerfeng/Gen-Searcher" class="paper-link">💻 Code</a>
+<a href="https://github.com/tulerfeng/Gen-Searcher" class="paper-link">💻 Code <img src="https://img.shields.io/github/stars/tulerfeng/Gen-Searcher?style=social" alt="GitHub Stars"></a>
 </div>
 </div>
 
@@ -238,7 +238,7 @@ Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong S
 
 <a href="https://arxiv.org/abs/2506.10741" class="paper-link">📄 PDF</a> | 
 <a href="https://ephemeral182.github.io/PosterCraft/" class="paper-link">🌐 Project</a> | 
-<a href="https://github.com/Ephemeral182/PosterCraft" class="paper-link">💻 Code</a> | 
+<a href="https://github.com/Ephemeral182/PosterCraft" class="paper-link">💻 Code <img src="https://img.shields.io/github/stars/Ephemeral182/PosterCraft?style=social" alt="GitHub Stars"></a> | 
 <a href="https://www.youtube.com/watch?v=92wMU4D7qx0" class="paper-link">📹 Demo Video</a> 
 </div>
 </div>
@@ -262,7 +262,7 @@ Sixiang Chen, Jianyu Lai, Jialin Gao, Tian Ye, Haoyu Chen, Hengyu Shi, Shitong S
 
 <a href="https://arxiv.org/pdf/2407.14900" class="paper-link">📄 PDF</a> | 
 <a href="https://aglldiff.github.io" class="paper-link">🌐 Project</a> | 
-<a href="https://github.com/LYL1015/AGLLDiff" class="paper-link">💻 Code</a>
+<a href="https://github.com/LYL1015/AGLLDiff" class="paper-link">💻 Code <img src="https://img.shields.io/github/stars/LYL1015/AGLLDiff?style=social" alt="GitHub Stars"></a>
 </div>
 </div>
 

@@ -132,12 +132,12 @@ An open-source creative assistant that supports end-to-end workflows from web re
 </div>
 
 <!-- Paper 0.4 -->
-<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">Preprint 2026</div><img src='images/papers/claw-eval-live.jpg' alt="Claw-Eval-Live preview" width="100%"></div></div>
+<div class='paper-box ongoing-research'><div class='paper-box-image'><div><div class="badge" style="background-color: #4CAF50;">Preprint 2026</div><img src='https://raw.githubusercontent.com/Claw-Eval-Live/Claw-Eval-Live/main/docs/assets/liveclaweval-overview.png' alt="Claw-Eval-Live workflow overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://arxiv.org/abs/2604.28139" class="paper-title">Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows</a>
 
-Jianyu Lai, Yuanze Wang, Runjia Gao, Tian Ye, Sixiang Chen, Zheng Huang, Jinhe Yi, <strong>Yunlong Lin</strong>, Xu Yang, Guotao Liang
+Chenxin Li, Zhengyang Tang, Mingxin Huang, <strong>Yunlong Lin</strong>, Shijue Huang, Shengyuan Liu, Bowen Ye, Rang Li, Lei Li, Benyou Wang, Yixuan Yuan
 <p class="paper-insight">Static benchmarks can quickly become stale for real-world agents. Claw-Eval-Live turns workflow evolution into the evaluation target, making agent progress easier to track under changing websites, tools, and task requirements.</p>
 
 <a href="https://arxiv.org/pdf/2604.28139" class="paper-link">📄 PDF</a> |

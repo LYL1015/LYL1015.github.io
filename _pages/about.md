@@ -77,13 +77,38 @@ document.addEventListener('DOMContentLoaded', function() {
     </div>
 </div> -->
 
-<div class="section-heading section-heading-main"><span class="section-icon">📌</span> Research Highlights</div>
+<div class="section-heading section-heading-main"><span class="section-icon">📌</span> Research Interest</div>
 <div class="research-highlights">
-  <p>My recent research focuses on <strong>VLM/LLM/Agent systems</strong> for visual creation and perception. A central theme is improving multimodal agents with stronger post-training signals, tighter plan-act-reflect loops, and scalable reward design.</p>
-  <ul>
-    <li><strong>Agentic VLM/LLM for end-to-end workflows:</strong> build multimodal agents that can search, reason, call tools, and execute complete creative tasks.</li>
-    <li><strong>Reinforcement learning for multimodal decision making:</strong> optimize search and editing trajectories with evaluator feedback, self-reflection, and policy-level improvements.</li>
-    <li><strong>Reliable multimodal perception and generation:</strong> connect restoration, 4D understanding, and synthesis so models perform better in real-world settings, not only on static metrics.</li>
+  <p>My research interests broadly lie in <strong>Multimodal Large Language Models</strong> and <strong>agentic visual intelligence</strong>, with a recent emphasis on <strong>Coding Benchmark</strong>, <strong>3D/4D large foundation models</strong>, <strong>AIGC / unified models</strong>, reasoning, reinforcement learning, and benchmarks. Current and previous focal areas include:</p>
+  <ul class="research-interest-list">
+    <li>
+      <strong>Multimodal LLM Agents</strong>
+      <ul>
+        <li><strong>Tool-using agents and creative workflows (2025-Present):</strong> <a href="https://jarvisart.vercel.app/">JarvisArt</a>, <a href="https://jarvisevo.vercel.app/">JarvisEvo</a>, <a href="https://github.com/LYL1015/JarvisX-Cowork">JarvisX-Cowork</a></li>
+        <li><strong>World-grounded synthesis agents (2026-Present):</strong> <a href="https://arxiv.org/abs/2603.29620">Unify-Agent</a>, <a href="https://arxiv.org/abs/2603.28767">Gen-Searcher</a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>Coding Benchmark</strong>
+      <ul>
+        <li><strong>Agentic coding evaluation and self-improvement (2025-Present):</strong> <a href="https://jarvisevo.vercel.app/">JarvisEvo</a>, <a href="https://arxiv.org/abs/2603.28767">Gen-Searcher</a>, <a href="https://jarvisart.vercel.app/">JarvisArt</a></li>
+        <li><strong>Interleaved reasoning and multi-turn benchmark design (2026-Present):</strong> <a href="https://arxiv.org/abs/2602.06442">ChatUMM</a>, <a href="https://arxiv.org/abs/2603.12746">Thinking in Dynamics</a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>3D/4D Large Foundation Models &amp; Benchmarks</strong>
+      <ul>
+        <li><strong>3D scene understanding and agentic inverse rendering (2025-Present):</strong> <a href="https://ir3d-bench.github.io/">IR3D-Bench</a>, <a href="https://arxiv.org/abs/2511.00468">HumanCrafter</a></li>
+        <li><strong>Dynamic 4D world modeling and reasoning (2025-Present):</strong> <a href="https://dynamic-verse.github.io/">DynamicVerse</a>, <a href="https://arxiv.org/abs/2511.00503">Diff4Splat</a>, <a href="https://dyn-bench.github.io/">Dyn-Bench</a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>AIGC / Unified Models</strong>
+      <ul>
+        <li><strong>Benchmark and evaluation construction (2025-Present):</strong> MMArt-Bench, ArtEdit-Bench, KnowGen, FactIP, IR3D-Bench, Dyn-Bench</li>
+        <li><strong>Generative design and visual restoration (2024-Present):</strong> <a href="https://ephemeral182.github.io/PosterCraft/">PosterCraft</a>, <a href="https://cvpr2025-jarvisir.github.io/">JarvisIR</a>, <a href="https://alexlai2860.github.io/SnowMaster">SnowMaster</a>, <a href="https://aglldiff.github.io">AGLLDiff</a>, <a href="https://dplut.github.io/">DPLUT</a></li>
+      </ul>
+    </li>
   </ul>
   <p>✉️ Welcome to contact me for discussions and collaborations on VLM/LLM/Agent and reinforcement learning research.</p>
 </div>
@@ -685,6 +710,43 @@ a[href]:after { content: none !important; }
 .research-highlights li strong {
     color: var(--ink);
     font-weight: 600;
+}
+
+.research-interest-list > li {
+    padding-left: 0;
+    margin-bottom: 1.1rem;
+    color: var(--ink) !important;
+}
+
+.research-interest-list > li::before {
+    content: none;
+}
+
+.research-interest-list > li > strong {
+    display: block;
+    font-family: var(--font-display);
+    font-size: 1.02rem;
+    font-weight: 500;
+    color: var(--green);
+}
+
+.research-interest-list ul {
+    margin: 0.45rem 0 0.2rem;
+    padding-left: 0;
+}
+
+.research-interest-list ul li {
+    margin-bottom: 0.4rem;
+    padding-left: 1rem;
+    color: var(--ink-soft) !important;
+}
+
+.research-interest-list ul li::before {
+    content: '-';
+}
+
+.research-interest-list ul li strong {
+    color: var(--accent) !important;
 }
 
 /* ---------- Info Grid ---------- */

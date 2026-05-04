@@ -105,7 +105,6 @@ document.addEventListener('DOMContentLoaded', function() {
     <li>
       <strong>AIGC / Unified Models</strong>
       <ul>
-        <li><strong>Benchmark and evaluation construction (2025-Present):</strong> MMArt-Bench, ArtEdit-Bench, KnowGen, FactIP, IR3D-Bench, Dyn-Bench</li>
         <li><strong>Generative design and visual restoration (2024-Present):</strong> <a href="https://ephemeral182.github.io/PosterCraft/">PosterCraft</a>, <a href="https://cvpr2025-jarvisir.github.io/">JarvisIR</a>, <a href="https://alexlai2860.github.io/SnowMaster">SnowMaster</a>, <a href="https://aglldiff.github.io">AGLLDiff</a>, <a href="https://dplut.github.io/">DPLUT</a></li>
       </ul>
     </li>

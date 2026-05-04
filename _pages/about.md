@@ -223,7 +223,8 @@ Kairun Wen, Yuzhi Huang, Runyu Chen, Hui Zheng, **Yunlong Lin**, Panwang Pan, Ch
 <p class="paper-insight">Physical priors are critical for temporally consistent 4D world modeling. Combining physically-aware constraints with multimodal context improves both realism and controllability in dynamic scene generation.</p>
 
 <a href="" class="paper-link">📄 PDF</a> | 
-<a href="https://dynamic-verse.github.io/" class="paper-link">🌐 Project</a>
+<a href="https://dynamic-verse.github.io/" class="paper-link">🌐 Project</a> |
+<a href="https://github.com/Dynamics-X/DynamicVerse" class="paper-link">💻 Code <img src="https://img.shields.io/github/stars/Dynamics-X/DynamicVerse?style=social" alt="GitHub Stars"></a>
 </div>
 </div>
 
@@ -292,7 +293,8 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
 <p class="paper-insight">MLLM-driven feedback is effective for coordinating multiple restoration experts in difficult weather conditions. Multi-model feedback optimization improves desnowing quality and reduces brittle failure cases.</p>
 
 <a href="" class="paper-link">📄 PDF</a> | 
-<a href="" class="paper-link">🌐 Project</a>
+<a href="https://alexlai2860.github.io/SnowMaster" class="paper-link">🌐 Project</a> |
+<a href="https://github.com/alexlai2860/SnowMaster" class="paper-link">💻 Code <img src="https://img.shields.io/github/stars/alexlai2860/SnowMaster?style=social" alt="GitHub Stars"></a>
 </div>
 </div>
 

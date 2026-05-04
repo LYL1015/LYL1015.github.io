@@ -138,7 +138,7 @@ An open-source creative assistant that supports end-to-end workflows from web re
 <a href="https://arxiv.org/abs/2604.28139" class="paper-title">Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows</a>
 
 Chenxin Li, Zhengyang Tang, Mingxin Huang, <strong>Yunlong Lin</strong>, Shijue Huang, Shengyuan Liu, Bowen Ye, Rang Li, Lei Li, Benyou Wang, Yixuan Yuan
-<p class="paper-insight">Static benchmarks can quickly become stale for real-world agents. Claw-Eval-Live turns workflow evolution into the evaluation target, making agent progress easier to track under changing websites, tools, and task requirements.</p>
+<p class="paper-insight">A live workflow-agent benchmark with refreshable demand signals and verifiable execution traces; 105 tasks across 22 categories, 13 frontier models, top model passes only 66.7%.</p>
 
 <a href="https://arxiv.org/pdf/2604.28139" class="paper-link">📄 PDF</a> |
 <a href="https://claw-eval-live.github.io/" class="paper-link">🌐 Project</a> |

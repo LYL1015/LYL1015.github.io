@@ -91,20 +91,20 @@ document.addEventListener('DOMContentLoaded', function() {
     <li>
       <strong>Coding Benchmark</strong>
       <ul>
-        <li><strong>Agentic coding evaluation and self-improvement (2025-Present):</strong> <a href="https://jarvisevo.vercel.app/">JarvisEvo</a>, <a href="https://arxiv.org/abs/2603.28767">Gen-Searcher</a>, <a href="https://jarvisart.vercel.app/">JarvisArt</a></li>
-        <li><strong>Interleaved reasoning and multi-turn benchmark design (2026-Present):</strong> <a href="https://arxiv.org/abs/2602.06442">ChatUMM</a>, <a href="https://arxiv.org/abs/2603.12746">Thinking in Dynamics</a></li>
+        <li><strong>Live agent coding benchmark (2026-Present):</strong> <a href="https://arxiv.org/abs/2604.28139">Claw-Eval-Live</a></li>
       </ul>
     </li>
     <li>
       <strong>3D/4D Large Foundation Models &amp; Benchmarks</strong>
       <ul>
         <li><strong>3D scene understanding and agentic inverse rendering (2025-Present):</strong> <a href="https://ir3d-bench.github.io/">IR3D-Bench</a>, <a href="https://arxiv.org/abs/2511.00468">HumanCrafter</a></li>
-        <li><strong>Dynamic 4D world modeling and reasoning (2025-Present):</strong> <a href="https://dynamic-verse.github.io/">DynamicVerse</a>, <a href="https://arxiv.org/abs/2511.00503">Diff4Splat</a>, <a href="https://dyn-bench.github.io/">Dyn-Bench</a></li>
+        <li><strong>Dynamic 4D world modeling and reasoning (2025-Present):</strong> <a href="https://dynamic-verse.github.io/">DynamicVerse</a>, <a href="https://arxiv.org/abs/2511.00503">Diff4Splat</a>, <a href="https://dyn-bench.github.io/">Thinking in Dynamics</a></li>
       </ul>
     </li>
     <li>
       <strong>AIGC / Unified Models</strong>
       <ul>
+        <li><strong>Unified image generation and editing (2026-Present):</strong> <a href="https://arxiv.org/abs/2604.24625">Meta-CoT</a>, <a href="https://arxiv.org/abs/2601.17124">iFSQ</a></li>
         <li><strong>Generative design and visual restoration (2024-Present):</strong> <a href="https://ephemeral182.github.io/PosterCraft/">PosterCraft</a>, <a href="https://cvpr2025-jarvisir.github.io/">JarvisIR</a>, <a href="https://alexlai2860.github.io/SnowMaster">SnowMaster</a>, <a href="https://aglldiff.github.io">AGLLDiff</a>, <a href="https://dplut.github.io/">DPLUT</a></li>
       </ul>
     </li>

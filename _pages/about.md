@@ -122,7 +122,9 @@ document.addEventListener('DOMContentLoaded', function() {
   </section>
   <section class="meta-card">
     <div class="section-heading section-heading-subtle"><span class="section-icon">🔥</span> News</div>
-    <ul class="compact-list">
+    <ul class="compact-list news-list">
+      <li>Our <strong>Claw-Eval-Live</strong>, a live agent benchmark for evolving real-world workflows, has been released!</li>
+      <li>Our multimodal representation work <strong>Twins</strong> has been accepted by <strong>ICML</strong>. Congratulations to Kaixiong!</li>
       <li>Our <strong>JarvisEvo</strong> has been accepted by <strong>CVPR 2026</strong>!</li>
       <li>Our <strong>JarvisEvo</strong>: Towards Self-Evolution—the first intelligent photo retouching Agent integrating "Edit-Evaluate-Reflect" has been released! We're honored that our work coincides with (<a href="https://x.com/Adobe/status/1998843861146177659">OpenAI x Adobe's new feature!</a>)</li>
       <li>Our <strong>JarvisArt</strong>: The first intelligent photo retouching agent seamlessly integrated with Adobe Lightroom has been accepted by <strong>NeurIPS 2025</strong>! The code and benchmark are now fully open-sourced!</li>
@@ -822,6 +824,26 @@ a[href]:after { content: none !important; }
 .compact-list li strong {
     color: var(--ink) !important;
     font-weight: 600;
+}
+
+.news-list {
+    max-height: 158px;
+    overflow-y: auto;
+    padding-right: 10px;
+    scrollbar-width: thin;
+    scrollbar-color: var(--ink-faint) transparent;
+}
+
+.news-list::-webkit-scrollbar {
+    width: 4px;
+}
+
+.news-list::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.news-list::-webkit-scrollbar-thumb {
+    background: var(--ink-faint);
 }
 
 .compact-list a {

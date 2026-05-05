@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="wrapper">
- Welcome to my academic homepage. I am <strong>Yunlong Lin</strong>, a Master student at Xiamen University (XMU) @<a href="https://xmu-smartdsp.github.io/">SmartDSP</a> advised by <a href="https://scholar.google.com.hk/citations?user=k5hVBfMAAAAJ&hl=zh-CN">Prof. Xinghao Ding</a>. I previously interned at <a href="https://hunyuan.tencent.com/"><strong>Tencent Hunyuan (Tencent HY)</strong></a> and <a href="https://seed.bytedance.com/en/"><strong>ByteDance Seed</strong></a>. My key research areas and methodologies include:
+ Welcome to my academic homepage. I am <strong>Yunlong Lin</strong>, a Master student at Xiamen University (XMU) <a href="https://xmu-smartdsp.github.io/"><strong>@SmartDSP</strong></a> advised by <a href="https://scholar.google.com.hk/citations?user=k5hVBfMAAAAJ&hl=zh-CN"><strong>Prof. Xinghao Ding</strong></a> and <a href="https://scholar.google.com.hk/citations?user=smxgn4YAAAAJ&hl=zh-CN"><strong>Yue Huang</strong></a>. I previously interned at <a href="https://hunyuan.tencent.com/"><strong>Tencent Hunyuan (Tencent HY)</strong></a> and <a href="https://seed.bytedance.com/en/"><strong>ByteDance Seed</strong></a>. My key research areas and methodologies include:
 
 <!-- <div id="motto" class="typed-motto"></div> -->
 

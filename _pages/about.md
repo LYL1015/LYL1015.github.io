@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <li>
       <strong>AIGC / Unified Models</strong>
       <ul>
-        <li><strong>Unified image generation and editing:</strong> <a href="https://arxiv.org/abs/2604.24625">Meta-CoT</a>, <a href="https://arxiv.org/abs/2601.17124">iFSQ</a></li>
+        <li><strong>Unified image generation and editing:</strong> <a href="https://arxiv.org/abs/2604.24625">Meta-CoT</a>, <a href="https://arxiv.org/abs/2601.17124">iFSQ</a>, <a href="https://arxiv.org/abs/2602.06442">ChatUMM</a></li>
         <li><strong>Generative design and visual restoration:</strong> <a href="https://ephemeral182.github.io/PosterCraft/">PosterCraft</a>, <a href="https://cvpr2025-jarvisir.github.io/">JarvisIR</a>, <a href="https://alexlai2860.github.io/SnowMaster">SnowMaster</a>, <a href="https://aglldiff.github.io">AGLLDiff</a>, <a href="https://dplut.github.io/">DPLUT</a></li>
       </ul>
     </li>

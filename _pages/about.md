@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <div class="section-heading section-heading-main"><span class="section-icon">📌</span> Research Interest</div>
 <div class="research-highlights">
-  <p>My research interests broadly lie in <strong>Multimodal Large Language Models</strong> and <strong>agentic visual intelligence</strong>, with a recent emphasis on <strong>Coding Benchmark</strong>, <strong>3D/4D large foundation models</strong>, <strong>AIGC / unified models</strong>, reasoning, reinforcement learning, and benchmarks. Current and previous focal areas include:</p>
+  <p>My recent interests lie in scaling <strong>LLM/VLM agents</strong> for digital, visual, and 3D/4D automation, including: (i) coding and tool-use agents for real-world workflows and evaluation (<strong>Claw-Eval-Live</strong>, <strong>JarvisArt</strong>, <strong>JarvisEvo</strong>, <strong>JarvisX-Cowork</strong>), (ii) visual and creative agents for image generation, editing, restoration, and design artifacts (<strong>Unify-Agent</strong>, <strong>Gen-Searcher</strong>, <strong>JarvisIR</strong>, <strong>PosterCraft</strong>), and (iii) foundation models and benchmarks for 3D/4D world understanding and dynamic reasoning (<strong>IR3D-Bench</strong>, <strong>DynamicVerse</strong>, <strong>Thinking in Dynamics</strong>). These experiences span agent scaffold and harness design, task and evaluation construction, trajectory rollout and distillation, reinforcement learning/post-training, and multimodal reasoning. Current and previous focal areas include:</p>
   <ul class="research-interest-list">
     <li>
       <strong>Multimodal LLM Agents</strong>

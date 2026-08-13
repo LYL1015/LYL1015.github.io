@@ -4,7 +4,10 @@
         
         $.getJSON(gsDataBaseUrl + "gs_data.json", function (data) {
             var totalCitation = data['citedby'];
-            document.getElementById('total_cit').innerHTML = totalCitation;
+            var totalCitationElement = document.getElementById('total_cit');
+            if (totalCitationElement) {
+                totalCitationElement.innerHTML = totalCitation;
+            }
             var citationEles = document.getElementsByClassName('show_paper_citations');
             Array.prototype.forEach.call(citationEles, function(element) {
                 var paperId = element.getAttribute('data');

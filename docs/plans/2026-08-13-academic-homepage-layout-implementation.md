@@ -8,6 +8,8 @@
 
 **Tech Stack:** Jekyll 3.9, Liquid includes, HTML, CSS, Ruby one-off contract assertions, FFmpeg for deterministic image cropping, Playwright CLI for browser verification.
 
+**Approved revision:** Implement Seed2.1 and Seed2.0 as one combined ByteDance Seed research row. Use one shared Seed wordmark, two official hero thumbnails, two textual subprojects, and one `ByteDance Seed Team` credit.
+
 ---
 
 ### Task 1: Lock the Approved Content and Structure Contracts
@@ -30,7 +32,7 @@ Expected: FAIL with `missing compact agenda`.
 Run:
 
 ```bash
-ruby -e 's=File.read("_includes/homepage-content.html"); abort("personal Seed attribution remains") if s.include?("ByteDance Seed Team (including"); abort("expected two Seed team credits") unless s.scan("ByteDance Seed Team").length == 2; abort("academic links not implemented") unless s.include?("class=\"paper-links\"")'
+ruby -e 's=File.read("_includes/homepage-content.html"); abort("personal Seed attribution remains") if s.include?("ByteDance Seed Team (including"); abort("expected one merged Seed team credit") unless s.scan("ByteDance Seed Team").length == 1; abort("academic links not implemented") unless s.include?("class=\"paper-links\"")'
 ```
 
 Expected: FAIL only on `academic links not implemented`; the Seed credit constraint already passes from the pending copy edit.
@@ -122,7 +124,7 @@ git commit -m "Adopt compact academic homepage styling"
 Run:
 
 ```bash
-test -s images/papers/seed-wordmark.png && ruby -e 's=File.read("_includes/homepage-content.html"); abort unless s.scan("images/papers/seed-wordmark.png").length == 2 && !s.include?("seed-mark.png")'
+test -s images/papers/seed-wordmark.png && ruby -e 's=File.read("_includes/homepage-content.html"); abort unless s.scan("images/papers/seed-wordmark.png").length == 1 && s.scan("class=\"seed-subproject\"").length == 2 && !s.include?("seed-mark.png")'
 ```
 
 Expected: FAIL because the new wordmark does not exist.
@@ -141,9 +143,9 @@ Use FFmpeg to crop the `ByteDance | Seed` wordmark from the upper-left of the 27
 ffmpeg -y -i /tmp/chenxinli-seed2-hero.png -vf "crop=430:100:28:10,scale=430:-1" images/papers/seed-wordmark.png
 ```
 
-**Step 4: Update both Seed cards**
+**Step 4: Build the combined Seed row**
 
-Use `seed-wordmark.png` in both cards with `alt="ByteDance Seed"`, followed by visible `Seed2.1` or `Seed2.0` text. Remove the obsolete generated mark.
+Use `seed-wordmark.png` once with `alt="ByteDance Seed"`. Add the owner-supplied Seed2.1 hero and a cropped Seed2.0 hero as two thumbnails, then keep Seed2.1 and Seed2.0 as separate text subprojects inside one research row. Remove the obsolete generated mark.
 
 **Step 5: Run the asset assertion**
 
@@ -198,7 +200,7 @@ Verify:
 
 - JarvisHub is the first research row and has six resource/media links;
 - Seed2.1 and Seed2.0 credits are exactly `ByteDance Seed Team`;
-- Seed wordmark occurs exactly twice;
+- the combined Seed row contains one wordmark, two official hero thumbnails, two subprojects, and one team credit;
 - navigation anchors resolve;
 - removed 3D/4D, AIGC, and Multimodal labels remain absent;
 - `git diff --check` passes.
@@ -215,7 +217,7 @@ Inspect desktop and 390×844 mobile layouts. Assert:
 
 - no horizontal overflow;
 - JarvisHub → Seed2.1 → Seed2.0 order;
-- two Seed wordmark images load;
+- the shared Seed wordmark and both Seed hero thumbnails load;
 - all navigation fragments resolve;
 - no console errors.
 

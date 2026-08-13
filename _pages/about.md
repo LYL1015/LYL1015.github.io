@@ -381,34 +381,65 @@ a[href]::after {
     text-transform: uppercase;
 }
 
-.seed-project-visual {
+.seed-program-card {
+    align-items: start;
+}
+
+.seed-program-visual {
     align-items: center;
     background: #f1f6fa;
     border: 1px solid var(--academic-rule);
     border-radius: 5px;
     display: flex;
     flex-direction: column;
-    gap: 0.7rem;
+    gap: 0.75rem;
     justify-content: center;
-    min-height: 128px;
-    padding: 1rem;
+    padding: 0.85rem;
 }
 
-.seed-project-visual img {
+.seed-program-visual .seed-wordmark {
     background: transparent;
     border: 0;
     border-radius: 0;
     height: auto;
-    max-width: 175px;
-    width: 82% !important;
+    max-width: 190px;
+    width: 88% !important;
 }
 
-.seed-project-visual span {
-    color: var(--academic-ink);
+.seed-project-thumbnails {
+    display: grid;
+    gap: 0.55rem;
+    grid-template-columns: 1fr;
+    width: 100%;
+}
+
+.seed-project-thumbnails a {
+    border: 0 !important;
+    display: block;
+    overflow: hidden;
+}
+
+.seed-project-thumbnails img {
+    aspect-ratio: 16 / 9;
+    border: 1px solid var(--academic-rule);
+    border-radius: 4px;
+    object-fit: cover;
+    width: 100% !important;
+}
+
+.seed-subproject {
+    border-top: 1px solid var(--academic-rule-soft);
+    margin-top: 0.72rem;
+    padding-top: 0.65rem;
+}
+
+.seed-subproject-title {
+    color: var(--academic-accent) !important;
     font-family: var(--academic-ui);
-    font-size: 1.12rem;
-    font-weight: 650;
-    letter-spacing: 0.01em;
+    font-size: 0.82rem;
+    font-weight: 700;
+    line-height: 1.4;
+    text-decoration: none !important;
 }
 
 .paper-box-text {
@@ -495,8 +526,8 @@ a[href]::after {
     content: "[";
 }
 
-.paper-link::after {
-    content: "]";
+.page__content .paper-link::after {
+    content: "]" !important;
 }
 
 .paper-link img {
@@ -558,8 +589,13 @@ a[href]::after {
         width: 100% !important;
     }
 
-    .seed-project-visual {
-        min-height: 118px;
+    .seed-project-thumbnails {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .seed-program-visual .seed-wordmark {
+        max-width: 210px;
+        width: 62% !important;
     }
 
     .paper-title {

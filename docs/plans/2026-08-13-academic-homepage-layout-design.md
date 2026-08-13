@@ -15,7 +15,7 @@ The redesign will:
 - express the research agenda in compact `(i)`, `(ii)`, and `(iii)` paragraphs for long-horizon agents, Agentic RL and harness generalization, and self-improving agents / RSI;
 - replace the Contact, News, and Experience cards with simpler academic sections and lists;
 - convert Selected Research from numbered shadowed cards into compact left-image/right-text rows;
-- retain JarvisHub first, followed by Seed2.1, Seed2.0, JarvisEvo, JarvisIR, and the remaining selected agent work;
+- retain JarvisHub first, followed by a combined ByteDance Seed row, JarvisEvo, JarvisIR, and the remaining selected agent work;
 - render resource links in compact bracketed form such as `[Project] [Paper] [GitHub]`;
 - preserve all currently approved content and URLs unless a layout change requires markup-only restructuring;
 - keep the Seed team credit as `ByteDance Seed Team`, without `including Yunlong Lin`.
@@ -33,6 +33,10 @@ Instead:
 - add descriptive alternative text and optimize the local asset for web delivery.
 
 Reference source: `https://chenxinli001.github.io/data/images/seed2-hero.png`.
+
+### Approved Combined Presentation
+
+After reviewing the first implementation, the two Seed entries will be merged into one `ByteDance Seed` research row. The row uses one shared official wordmark, one Seed2.1 hero supplied by the site owner, and one Seed2.0 hero derived from the approved reference source. The text column keeps two clearly separated subprojects, but shows `ByteDance Seed Team` only once and never uses personal `including` attribution.
 
 ## Layout and Styling
 

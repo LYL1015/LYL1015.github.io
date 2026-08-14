@@ -322,13 +322,12 @@ a[href]::after {
 
 .experience-brand-link {
     align-items: center;
-    background: var(--academic-paper);
-    border: 1px solid var(--academic-rule) !important;
-    border-radius: 4px;
+    background: transparent;
+    border: 0 !important;
     display: flex;
-    height: 46px;
-    justify-content: center;
-    padding: 0.45rem 0.55rem;
+    height: 40px;
+    justify-content: flex-start;
+    padding: 0;
     text-decoration: none !important;
 }
 
@@ -341,19 +340,45 @@ a[href]::after {
     display: block;
     height: auto;
     margin: 0;
-    max-height: 30px;
+    max-height: 34px;
     max-width: 100%;
     object-fit: contain;
     width: auto;
 }
 
 .experience-logo-seed {
-    max-height: 24px;
+    max-height: 22px;
     width: 100%;
 }
 
 .experience-copy {
     min-width: 0;
+}
+
+.experience-primary,
+.experience-focus {
+    display: block;
+}
+
+.experience-primary {
+    color: var(--academic-ink);
+    font-weight: 600;
+}
+
+.experience-date {
+    color: var(--academic-accent);
+    font-family: var(--academic-ui);
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+}
+
+.experience-focus {
+    color: var(--academic-muted);
+    font-size: 0.78rem;
+    line-height: 1.45;
+    margin-top: 0.12rem;
 }
 
 /* Selected research rows */
@@ -632,12 +657,12 @@ a[href]::after {
     }
 
     .experience-brand-link {
-        height: 42px;
-        padding: 0.4rem;
+        height: 36px;
+        padding: 0;
     }
 
     .experience-logo-seed {
-        max-height: 19px;
+        max-height: 17px;
     }
 
     .paper-box {

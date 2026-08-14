@@ -20,8 +20,8 @@ Each entry follows the same reading order:
 
 1. project or venue badge and visual;
 2. project title;
-3. concise project description;
-4. resource links.
+3. resource links;
+4. concise project description.
 
 Seed2.1 and Seed2.0 retain their nested titles, descriptions, and links inside the merged Seed entry.
 

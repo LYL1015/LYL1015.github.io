@@ -3,11 +3,11 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "News"
+    url: "/#news"
+
   - title: "Research Focus"
     url: "/#research-interest"
 
   - title: "Selected Research"
     url: "/#selected-research"
-
-  - title: "News"
-    url: "/#news"

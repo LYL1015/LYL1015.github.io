@@ -5,6 +5,7 @@ require "minitest/autorun"
 class HomepageNarrativeTest < Minitest::Test
   ROOT = File.expand_path("..", __dir__)
   CONTENT_PATH = File.join(ROOT, "_includes/homepage-content.html")
+  NAVIGATION_PATH = File.join(ROOT, "_data/navigation.yml")
   STYLE_PATH = File.join(ROOT, "_pages/about.md")
 
   PROJECT_ORDER = [
@@ -70,7 +71,18 @@ class HomepageNarrativeTest < Minitest::Test
 
   def setup
     @html = File.read(CONTENT_PATH)
+    @navigation = File.read(NAVIGATION_PATH)
     @css = File.read(STYLE_PATH)
+  end
+
+  def test_navigation_prioritizes_news_after_about_me
+    assert_equal ["About Me", "News", "Research Focus", "Selected Research"],
+                 @navigation.scan(/title: "([^"]+)"/).flatten
+  end
+
+  def test_jarvishub_github_link_displays_live_star_count
+    assert_includes @html,
+                    '<a href="https://github.com/LYL1015/JarvisHub" class="paper-link">GitHub <img src="https://img.shields.io/github/stars/LYL1015/JarvisHub?style=social" alt="GitHub Stars"></a>'
   end
 
   def test_introduction_defines_the_approved_research_identity
@@ -141,4 +153,3 @@ class HomepageNarrativeTest < Minitest::Test
     refute_match(/<rect\b/i, svg)
   end
 end
-

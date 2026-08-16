@@ -4,9 +4,13 @@ require "minitest/autorun"
 
 class HomepageNarrativeTest < Minitest::Test
   ROOT = File.expand_path("..", __dir__)
+  CONFIG_PATH = File.join(ROOT, "_config.yml")
   CONTENT_PATH = File.join(ROOT, "_includes/homepage-content.html")
   NAVIGATION_PATH = File.join(ROOT, "_data/navigation.yml")
+  PROFILE_TEMPLATE_PATH = File.join(ROOT, "_includes/author-profile.html")
   STYLE_PATH = File.join(ROOT, "_pages/about.md")
+
+  LINKEDIN_SLUG = "%E4%BA%91%E9%BE%99-%E6%9E%97-9998682a1"
 
   PROJECT_ORDER = [
     "ByteDance Seed",
@@ -70,9 +74,17 @@ class HomepageNarrativeTest < Minitest::Test
   ].freeze
 
   def setup
+    @config = File.read(CONFIG_PATH)
     @html = File.read(CONTENT_PATH)
     @navigation = File.read(NAVIGATION_PATH)
+    @profile_template = File.read(PROFILE_TEMPLATE_PATH)
     @css = File.read(STYLE_PATH)
+  end
+
+  def test_linkedin_profile_uses_existing_full_and_compact_render_paths
+    assert_includes @config, %(linkedin         : "#{LINKEDIN_SLUG}")
+    assert_equal 2, @profile_template.scan("https://www.linkedin.com/in/{{ author.linkedin }}").length
+    assert_equal 2, @profile_template.scan("fa-linkedin").length
   end
 
   def test_navigation_prioritizes_news_after_about_me
